@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS relations (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     fact_id_a INTEGER NOT NULL,
     fact_id_b INTEGER NOT NULL,
-    relation_type TEXT NOT NULL,  -- CORROBORATES | CONTRADICTS | RECONCILABLE | UNRELATED
+    relation_type TEXT NOT NULL,
     reasoning TEXT,
     FOREIGN KEY (fact_id_a) REFERENCES facts(id),
     FOREIGN KEY (fact_id_b) REFERENCES facts(id)
@@ -96,10 +96,13 @@ def load_facts_json(conn, facts_json_path):
     return len(rows)
 
 def load_all_facts(pattern="factlayer/data/*_facts.json"):
-    """(Re)builds the DB from scratch using every *_facts.json file found."""
-    if os.path.exists(DB_PATH):
-        os.remove(DB_PATH)  # rebuild clean each time — cheap since source JSON is the truth
+    """Rebuilds the facts table from every *_facts.json file found,
+    but preserves the relations table (adjudication results are expensive
+    to regenerate and should survive a facts reload)."""
     conn = init_db()
+    conn.execute("DELETE FROM facts")
+    conn.commit()
+
     total = 0
     for path in sorted(glob.glob(pattern)):
         n = load_facts_json(conn, path)

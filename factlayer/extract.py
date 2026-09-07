@@ -5,6 +5,7 @@ import time
 from pathlib import Path
 from google import genai
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv("factlayer/.env")
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
@@ -23,7 +24,7 @@ For EACH block, extract facts as objects with these fields:
 - period: time period if stated (e.g. "FY2024", "Q4 FY24") or null
 - scope: qualifier on what's included/excluded, or null
 - basis: accounting/methodology basis if stated (e.g. "adjusted"), or null
-- evidence_text: a VERBATIM substring copied exactly from THAT block's text. Must match character-for-character.
+- evidence_text: a VERBATIM substring COPY-PASTED exactly from THAT block's text — do not summarize, paraphrase, or shorten it. Copy the exact sentence or phrase as it appears, character-for-character, including any awkward wording. If you cannot find a short exact phrase that states the fact, do not include that fact at all.
 - confidence: "high" if stated plainly, "low" if from an ambiguous chart/table
 
 Skip boilerplate, disclaimers, table of contents, page headers.
@@ -33,7 +34,7 @@ Return ONLY a single JSON object mapping each block_id to its array of facts, li
 
 Include EVERY block_id you were given, even if its array is empty. Nothing else in your response."""
 
-def make_groups(blocks, char_budget=15000):
+def make_groups(blocks, char_budget=20000):
     groups, current, current_len = [], [], 0
     for b in blocks:
         blen = len(b["text"])
@@ -79,16 +80,13 @@ def extract_facts_from_group(group, max_retries=3):
                         f["page"] = block["page"]
                         f["block_id"] = block["block_id"]
                         valid_facts.append(f)
-                    else:
-                        print(f"  [dropped: not verbatim] {f.get('attribute')}")
             return valid_facts
         except json.JSONDecodeError:
-            print(f"  [retry {attempt+1}] bad JSON from group ({len(group)} blocks)")
-            time.sleep(5)
+            time.sleep(3)
         except Exception as e:
             print(f"  [error] {e}")
-            time.sleep(10)
-    return None  # total failure — caller must retry later, not mark as done
+            time.sleep(5)
+    return None
 
 def load_checkpoint(checkpoint_path):
     done_ids, facts = set(), []
@@ -105,7 +103,7 @@ def append_checkpoint(checkpoint_path, block_ids, facts):
     with open(checkpoint_path, "a") as f:
         f.write(json.dumps({"block_ids": block_ids, "facts": facts}) + "\n")
 
-def extract_facts_from_doc(blocks_json_path, doc_id):
+def extract_facts_from_doc(blocks_json_path, doc_id, max_workers=8):
     with open(blocks_json_path) as f:
         blocks = json.load(f)
     blocks = [b for b in blocks if len(b["text"].strip()) >= 20]
@@ -117,24 +115,25 @@ def extract_facts_from_doc(blocks_json_path, doc_id):
 
     remaining = [b for b in blocks if b["block_id"] not in done_ids]
     groups = make_groups(remaining)
-    print(f"{len(remaining)} blocks left, in {len(groups)} groups.")
+    print(f"{len(remaining)} blocks left, in {len(groups)} groups. Running {max_workers} at a time.")
 
     failed_groups = 0
-    for i, g in enumerate(groups):
-        block_ids = [b["block_id"] for b in g]
-        facts = extract_facts_from_group(g)
-        if facts is None:
-            failed_groups += 1
-            print(f"[{i+1}/{len(groups)}] group FAILED — not checkpointed, will retry next run")
-            continue
-        append_checkpoint(checkpoint_path, block_ids, facts)
-        all_facts.extend(facts)
-        print(f"[{i+1}/{len(groups)}] group done ({len(block_ids)} blocks, {len(facts)} facts)")
-        if i < len(groups) - 1:
-            time.sleep(2)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(extract_facts_from_group, g): g for g in groups}
+        for i, future in enumerate(as_completed(futures)):
+            g = futures[future]
+            block_ids = [b["block_id"] for b in g]
+            facts = future.result()
+            if facts is None:
+                failed_groups += 1
+                print(f"[{i+1}/{len(groups)}] group FAILED — will retry next run")
+                continue
+            append_checkpoint(checkpoint_path, block_ids, facts)
+            all_facts.extend(facts)
+            print(f"[{i+1}/{len(groups)}] done ({len(block_ids)} blocks, {len(facts)} facts)")
 
     if failed_groups:
-        print(f"\n{failed_groups} group(s) failed completely — run this same command again to retry them.")
+        print(f"\n{failed_groups} group(s) failed — run this same command again to retry them.")
 
     return all_facts
 
