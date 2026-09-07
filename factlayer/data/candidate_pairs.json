@@ -1,0 +1,6272 @@
+[
+  {
+    "fact_id_a": 1,
+    "fact_id_b": 783,
+    "similarity": 0.984916225487652
+  },
+  {
+    "fact_id_a": 1,
+    "fact_id_b": 788,
+    "similarity": 0.9580660217080486
+  },
+  {
+    "fact_id_a": 1,
+    "fact_id_b": 780,
+    "similarity": 0.8994043246989424
+  },
+  {
+    "fact_id_a": 2,
+    "fact_id_b": 792,
+    "similarity": 0.7931531944256269
+  },
+  {
+    "fact_id_a": 2,
+    "fact_id_b": 787,
+    "similarity": 0.780185014609379
+  },
+  {
+    "fact_id_a": 2,
+    "fact_id_b": 973,
+    "similarity": 0.7760163449740226
+  },
+  {
+    "fact_id_a": 3,
+    "fact_id_b": 775,
+    "similarity": 0.9097266781596955
+  },
+  {
+    "fact_id_a": 3,
+    "fact_id_b": 774,
+    "similarity": 0.8013925316709262
+  },
+  {
+    "fact_id_a": 3,
+    "fact_id_b": 1042,
+    "similarity": 0.7951122309812751
+  },
+  {
+    "fact_id_a": 27,
+    "fact_id_b": 1044,
+    "similarity": 0.7779423504852524
+  },
+  {
+    "fact_id_a": 27,
+    "fact_id_b": 914,
+    "similarity": 0.7694872933383056
+  },
+  {
+    "fact_id_a": 27,
+    "fact_id_b": 887,
+    "similarity": 0.7661582934433693
+  },
+  {
+    "fact_id_a": 30,
+    "fact_id_b": 1136,
+    "similarity": 0.7820315809425263
+  },
+  {
+    "fact_id_a": 30,
+    "fact_id_b": 731,
+    "similarity": 0.7792244706835179
+  },
+  {
+    "fact_id_a": 30,
+    "fact_id_b": 720,
+    "similarity": 0.7755134876760131
+  },
+  {
+    "fact_id_a": 31,
+    "fact_id_b": 1136,
+    "similarity": 0.8210402176867437
+  },
+  {
+    "fact_id_a": 31,
+    "fact_id_b": 732,
+    "similarity": 0.8042129296877538
+  },
+  {
+    "fact_id_a": 31,
+    "fact_id_b": 720,
+    "similarity": 0.8012104747756107
+  },
+  {
+    "fact_id_a": 32,
+    "fact_id_b": 1136,
+    "similarity": 0.7817419409032563
+  },
+  {
+    "fact_id_a": 32,
+    "fact_id_b": 721,
+    "similarity": 0.7704012228683543
+  },
+  {
+    "fact_id_a": 32,
+    "fact_id_b": 973,
+    "similarity": 0.7698468409607225
+  },
+  {
+    "fact_id_a": 33,
+    "fact_id_b": 1136,
+    "similarity": 0.7963277961181315
+  },
+  {
+    "fact_id_a": 33,
+    "fact_id_b": 973,
+    "similarity": 0.7918623350240651
+  },
+  {
+    "fact_id_a": 33,
+    "fact_id_b": 721,
+    "similarity": 0.7875644047808907
+  },
+  {
+    "fact_id_a": 34,
+    "fact_id_b": 749,
+    "similarity": 0.7783101545995276
+  },
+  {
+    "fact_id_a": 34,
+    "fact_id_b": 747,
+    "similarity": 0.7658224829970801
+  },
+  {
+    "fact_id_a": 34,
+    "fact_id_b": 727,
+    "similarity": 0.7654470115310968
+  },
+  {
+    "fact_id_a": 35,
+    "fact_id_b": 1150,
+    "similarity": 0.7577878142733238
+  },
+  {
+    "fact_id_a": 35,
+    "fact_id_b": 1149,
+    "similarity": 0.7561370357608062
+  },
+  {
+    "fact_id_a": 36,
+    "fact_id_b": 973,
+    "similarity": 0.7807626218567005
+  },
+  {
+    "fact_id_a": 36,
+    "fact_id_b": 1136,
+    "similarity": 0.7687432680068047
+  },
+  {
+    "fact_id_a": 36,
+    "fact_id_b": 972,
+    "similarity": 0.7567071762712589
+  },
+  {
+    "fact_id_a": 37,
+    "fact_id_b": 973,
+    "similarity": 0.8163653006005054
+  },
+  {
+    "fact_id_a": 37,
+    "fact_id_b": 972,
+    "similarity": 0.8104236431931154
+  },
+  {
+    "fact_id_a": 37,
+    "fact_id_b": 971,
+    "similarity": 0.7777854850450486
+  },
+  {
+    "fact_id_a": 65,
+    "fact_id_b": 719,
+    "similarity": 0.758228657455484
+  },
+  {
+    "fact_id_a": 65,
+    "fact_id_b": 726,
+    "similarity": 0.7573518033528372
+  },
+  {
+    "fact_id_a": 66,
+    "fact_id_b": 726,
+    "similarity": 0.7663725538334499
+  },
+  {
+    "fact_id_a": 67,
+    "fact_id_b": 726,
+    "similarity": 0.7596849867760908
+  },
+  {
+    "fact_id_a": 87,
+    "fact_id_b": 988,
+    "similarity": 0.7542963008962897
+  },
+  {
+    "fact_id_a": 87,
+    "fact_id_b": 1197,
+    "similarity": 0.7542963008962897
+  },
+  {
+    "fact_id_a": 87,
+    "fact_id_b": 994,
+    "similarity": 0.7520431693424172
+  },
+  {
+    "fact_id_a": 88,
+    "fact_id_b": 988,
+    "similarity": 0.7633392974546349
+  },
+  {
+    "fact_id_a": 88,
+    "fact_id_b": 1197,
+    "similarity": 0.7633392974546349
+  },
+  {
+    "fact_id_a": 88,
+    "fact_id_b": 994,
+    "similarity": 0.7556067388457283
+  },
+  {
+    "fact_id_a": 89,
+    "fact_id_b": 964,
+    "similarity": 0.7847260617091063
+  },
+  {
+    "fact_id_a": 89,
+    "fact_id_b": 1137,
+    "similarity": 0.7817209039595401
+  },
+  {
+    "fact_id_a": 89,
+    "fact_id_b": 962,
+    "similarity": 0.781609362127119
+  },
+  {
+    "fact_id_a": 90,
+    "fact_id_b": 988,
+    "similarity": 0.7720098489501309
+  },
+  {
+    "fact_id_a": 90,
+    "fact_id_b": 1197,
+    "similarity": 0.7720098489501309
+  },
+  {
+    "fact_id_a": 90,
+    "fact_id_b": 994,
+    "similarity": 0.7707708181587425
+  },
+  {
+    "fact_id_a": 91,
+    "fact_id_b": 897,
+    "similarity": 0.794705160468757
+  },
+  {
+    "fact_id_a": 91,
+    "fact_id_b": 809,
+    "similarity": 0.7819010905196305
+  },
+  {
+    "fact_id_a": 91,
+    "fact_id_b": 882,
+    "similarity": 0.781097674109449
+  },
+  {
+    "fact_id_a": 92,
+    "fact_id_b": 914,
+    "similarity": 0.7578225649403211
+  },
+  {
+    "fact_id_a": 92,
+    "fact_id_b": 897,
+    "similarity": 0.7564451838791254
+  },
+  {
+    "fact_id_a": 92,
+    "fact_id_b": 919,
+    "similarity": 0.7564329083240718
+  },
+  {
+    "fact_id_a": 112,
+    "fact_id_b": 759,
+    "similarity": 0.7805748978601088
+  },
+  {
+    "fact_id_a": 112,
+    "fact_id_b": 740,
+    "similarity": 0.7635649859484237
+  },
+  {
+    "fact_id_a": 113,
+    "fact_id_b": 759,
+    "similarity": 0.7830600384584144
+  },
+  {
+    "fact_id_a": 113,
+    "fact_id_b": 740,
+    "similarity": 0.7691048241170327
+  },
+  {
+    "fact_id_a": 114,
+    "fact_id_b": 759,
+    "similarity": 0.812435996370538
+  },
+  {
+    "fact_id_a": 114,
+    "fact_id_b": 740,
+    "similarity": 0.7913663150259544
+  },
+  {
+    "fact_id_a": 115,
+    "fact_id_b": 759,
+    "similarity": 0.8139623823461377
+  },
+  {
+    "fact_id_a": 115,
+    "fact_id_b": 740,
+    "similarity": 0.7946393958830094
+  },
+  {
+    "fact_id_a": 116,
+    "fact_id_b": 759,
+    "similarity": 0.8117726834116396
+  },
+  {
+    "fact_id_a": 116,
+    "fact_id_b": 740,
+    "similarity": 0.7902931171724011
+  },
+  {
+    "fact_id_a": 119,
+    "fact_id_b": 773,
+    "similarity": 0.7503221550781227
+  },
+  {
+    "fact_id_a": 120,
+    "fact_id_b": 773,
+    "similarity": 0.7890539357847552
+  },
+  {
+    "fact_id_a": 120,
+    "fact_id_b": 738,
+    "similarity": 0.7800560396977242
+  },
+  {
+    "fact_id_a": 120,
+    "fact_id_b": 752,
+    "similarity": 0.775053960596069
+  },
+  {
+    "fact_id_a": 121,
+    "fact_id_b": 773,
+    "similarity": 0.7912023047555937
+  },
+  {
+    "fact_id_a": 121,
+    "fact_id_b": 752,
+    "similarity": 0.7832895279848462
+  },
+  {
+    "fact_id_a": 121,
+    "fact_id_b": 738,
+    "similarity": 0.7753599409070291
+  },
+  {
+    "fact_id_a": 122,
+    "fact_id_b": 773,
+    "similarity": 0.7906017703641087
+  },
+  {
+    "fact_id_a": 122,
+    "fact_id_b": 752,
+    "similarity": 0.7763434813800983
+  },
+  {
+    "fact_id_a": 122,
+    "fact_id_b": 738,
+    "similarity": 0.7751184943481724
+  },
+  {
+    "fact_id_a": 125,
+    "fact_id_b": 760,
+    "similarity": 0.757737901290525
+  },
+  {
+    "fact_id_a": 126,
+    "fact_id_b": 760,
+    "similarity": 0.7618075516819177
+  },
+  {
+    "fact_id_a": 127,
+    "fact_id_b": 760,
+    "similarity": 0.7636031308840701
+  },
+  {
+    "fact_id_a": 143,
+    "fact_id_b": 1143,
+    "similarity": 0.8084693336921422
+  },
+  {
+    "fact_id_a": 143,
+    "fact_id_b": 1144,
+    "similarity": 0.8019483556326815
+  },
+  {
+    "fact_id_a": 143,
+    "fact_id_b": 984,
+    "similarity": 0.7938929850868998
+  },
+  {
+    "fact_id_a": 145,
+    "fact_id_b": 1143,
+    "similarity": 0.8192805299707795
+  },
+  {
+    "fact_id_a": 145,
+    "fact_id_b": 984,
+    "similarity": 0.8138401249952169
+  },
+  {
+    "fact_id_a": 145,
+    "fact_id_b": 1144,
+    "similarity": 0.8106562826221622
+  },
+  {
+    "fact_id_a": 146,
+    "fact_id_b": 1143,
+    "similarity": 0.7886188818104355
+  },
+  {
+    "fact_id_a": 146,
+    "fact_id_b": 1144,
+    "similarity": 0.7817803751819057
+  },
+  {
+    "fact_id_a": 147,
+    "fact_id_b": 1143,
+    "similarity": 0.8921314310015785
+  },
+  {
+    "fact_id_a": 147,
+    "fact_id_b": 1144,
+    "similarity": 0.8793477811657326
+  },
+  {
+    "fact_id_a": 147,
+    "fact_id_b": 984,
+    "similarity": 0.7892831944992837
+  },
+  {
+    "fact_id_a": 149,
+    "fact_id_b": 1143,
+    "similarity": 0.8244635901366963
+  },
+  {
+    "fact_id_a": 149,
+    "fact_id_b": 984,
+    "similarity": 0.8188849832253684
+  },
+  {
+    "fact_id_a": 149,
+    "fact_id_b": 1144,
+    "similarity": 0.8119738130543296
+  },
+  {
+    "fact_id_a": 150,
+    "fact_id_b": 758,
+    "similarity": 0.8599899533287195
+  },
+  {
+    "fact_id_a": 150,
+    "fact_id_b": 739,
+    "similarity": 0.8402450771627328
+  },
+  {
+    "fact_id_a": 150,
+    "fact_id_b": 715,
+    "similarity": 0.8138560729922872
+  },
+  {
+    "fact_id_a": 152,
+    "fact_id_b": 758,
+    "similarity": 0.8182643556991156
+  },
+  {
+    "fact_id_a": 152,
+    "fact_id_b": 739,
+    "similarity": 0.8015613866934339
+  },
+  {
+    "fact_id_a": 152,
+    "fact_id_b": 715,
+    "similarity": 0.7858430148289669
+  },
+  {
+    "fact_id_a": 153,
+    "fact_id_b": 758,
+    "similarity": 0.8706020732427595
+  },
+  {
+    "fact_id_a": 153,
+    "fact_id_b": 739,
+    "similarity": 0.8571509073242541
+  },
+  {
+    "fact_id_a": 153,
+    "fact_id_b": 715,
+    "similarity": 0.8209908767450117
+  },
+  {
+    "fact_id_a": 154,
+    "fact_id_b": 740,
+    "similarity": 0.8903540884856262
+  },
+  {
+    "fact_id_a": 154,
+    "fact_id_b": 759,
+    "similarity": 0.8855588069528609
+  },
+  {
+    "fact_id_a": 154,
+    "fact_id_b": 772,
+    "similarity": 0.7659117963947717
+  },
+  {
+    "fact_id_a": 155,
+    "fact_id_b": 740,
+    "similarity": 0.7925677112637742
+  },
+  {
+    "fact_id_a": 155,
+    "fact_id_b": 759,
+    "similarity": 0.7838891643434307
+  },
+  {
+    "fact_id_a": 156,
+    "fact_id_b": 740,
+    "similarity": 0.8977107838475328
+  },
+  {
+    "fact_id_a": 156,
+    "fact_id_b": 759,
+    "similarity": 0.8908567478214005
+  },
+  {
+    "fact_id_a": 156,
+    "fact_id_b": 751,
+    "similarity": 0.7701001626023224
+  },
+  {
+    "fact_id_a": 158,
+    "fact_id_b": 1144,
+    "similarity": 0.8447657756378731
+  },
+  {
+    "fact_id_a": 158,
+    "fact_id_b": 1143,
+    "similarity": 0.8379302891078042
+  },
+  {
+    "fact_id_a": 158,
+    "fact_id_b": 985,
+    "similarity": 0.8080015599925455
+  },
+  {
+    "fact_id_a": 159,
+    "fact_id_b": 760,
+    "similarity": 0.8586397977206427
+  },
+  {
+    "fact_id_a": 159,
+    "fact_id_b": 741,
+    "similarity": 0.8415352067445799
+  },
+  {
+    "fact_id_a": 159,
+    "fact_id_b": 740,
+    "similarity": 0.829567583880003
+  },
+  {
+    "fact_id_a": 160,
+    "fact_id_b": 760,
+    "similarity": 0.7563711652979076
+  },
+  {
+    "fact_id_a": 160,
+    "fact_id_b": 741,
+    "similarity": 0.7502225658821682
+  },
+  {
+    "fact_id_a": 161,
+    "fact_id_b": 760,
+    "similarity": 0.8572882425217105
+  },
+  {
+    "fact_id_a": 161,
+    "fact_id_b": 741,
+    "similarity": 0.849843185814188
+  },
+  {
+    "fact_id_a": 161,
+    "fact_id_b": 740,
+    "similarity": 0.8218570452196289
+  },
+  {
+    "fact_id_a": 162,
+    "fact_id_b": 773,
+    "similarity": 0.8984522151183559
+  },
+  {
+    "fact_id_a": 162,
+    "fact_id_b": 738,
+    "similarity": 0.8839640404050514
+  },
+  {
+    "fact_id_a": 162,
+    "fact_id_b": 757,
+    "similarity": 0.8816085381207697
+  },
+  {
+    "fact_id_a": 163,
+    "fact_id_b": 773,
+    "similarity": 0.9088694567206325
+  },
+  {
+    "fact_id_a": 163,
+    "fact_id_b": 738,
+    "similarity": 0.898057657936612
+  },
+  {
+    "fact_id_a": 163,
+    "fact_id_b": 757,
+    "similarity": 0.8969974016946495
+  },
+  {
+    "fact_id_a": 164,
+    "fact_id_b": 760,
+    "similarity": 0.8497280503021181
+  },
+  {
+    "fact_id_a": 164,
+    "fact_id_b": 741,
+    "similarity": 0.8417973927907777
+  },
+  {
+    "fact_id_a": 164,
+    "fact_id_b": 740,
+    "similarity": 0.8319293290107258
+  },
+  {
+    "fact_id_a": 165,
+    "fact_id_b": 760,
+    "similarity": 0.8541545061688286
+  },
+  {
+    "fact_id_a": 165,
+    "fact_id_b": 741,
+    "similarity": 0.851426370850861
+  },
+  {
+    "fact_id_a": 165,
+    "fact_id_b": 740,
+    "similarity": 0.8274260387377318
+  },
+  {
+    "fact_id_a": 166,
+    "fact_id_b": 766,
+    "similarity": 0.7646501090502686
+  },
+  {
+    "fact_id_a": 166,
+    "fact_id_b": 996,
+    "similarity": 0.7629461327773559
+  },
+  {
+    "fact_id_a": 166,
+    "fact_id_b": 1205,
+    "similarity": 0.7629461327773559
+  },
+  {
+    "fact_id_a": 168,
+    "fact_id_b": 758,
+    "similarity": 0.8217219667607578
+  },
+  {
+    "fact_id_a": 168,
+    "fact_id_b": 739,
+    "similarity": 0.81509950026946
+  },
+  {
+    "fact_id_a": 168,
+    "fact_id_b": 715,
+    "similarity": 0.8069964626553445
+  },
+  {
+    "fact_id_a": 171,
+    "fact_id_b": 984,
+    "similarity": 0.7987589181359781
+  },
+  {
+    "fact_id_a": 171,
+    "fact_id_b": 1143,
+    "similarity": 0.7912084384504662
+  },
+  {
+    "fact_id_a": 171,
+    "fact_id_b": 1144,
+    "similarity": 0.7886067678966937
+  },
+  {
+    "fact_id_a": 173,
+    "fact_id_b": 1143,
+    "similarity": 0.8667247774413418
+  },
+  {
+    "fact_id_a": 173,
+    "fact_id_b": 1144,
+    "similarity": 0.8615403509440741
+  },
+  {
+    "fact_id_a": 173,
+    "fact_id_b": 984,
+    "similarity": 0.775410677243711
+  },
+  {
+    "fact_id_a": 174,
+    "fact_id_b": 1143,
+    "similarity": 0.7574647156073067
+  },
+  {
+    "fact_id_a": 174,
+    "fact_id_b": 1144,
+    "similarity": 0.7571197405102984
+  },
+  {
+    "fact_id_a": 175,
+    "fact_id_b": 984,
+    "similarity": 0.8098247169183538
+  },
+  {
+    "fact_id_a": 175,
+    "fact_id_b": 1143,
+    "similarity": 0.809267912255471
+  },
+  {
+    "fact_id_a": 175,
+    "fact_id_b": 1144,
+    "similarity": 0.8020323033624441
+  },
+  {
+    "fact_id_a": 178,
+    "fact_id_b": 758,
+    "similarity": 0.8410576825404644
+  },
+  {
+    "fact_id_a": 178,
+    "fact_id_b": 739,
+    "similarity": 0.8244616623504639
+  },
+  {
+    "fact_id_a": 178,
+    "fact_id_b": 715,
+    "similarity": 0.8110277555993507
+  },
+  {
+    "fact_id_a": 181,
+    "fact_id_b": 759,
+    "similarity": 0.9067580189158307
+  },
+  {
+    "fact_id_a": 181,
+    "fact_id_b": 740,
+    "similarity": 0.8601699484288446
+  },
+  {
+    "fact_id_a": 181,
+    "fact_id_b": 758,
+    "similarity": 0.7649964661737254
+  },
+  {
+    "fact_id_a": 182,
+    "fact_id_b": 759,
+    "similarity": 0.7738462545045629
+  },
+  {
+    "fact_id_a": 183,
+    "fact_id_b": 759,
+    "similarity": 0.752678915222875
+  },
+  {
+    "fact_id_a": 184,
+    "fact_id_b": 1144,
+    "similarity": 0.8189338733838253
+  },
+  {
+    "fact_id_a": 184,
+    "fact_id_b": 1143,
+    "similarity": 0.8098363709626754
+  },
+  {
+    "fact_id_a": 184,
+    "fact_id_b": 985,
+    "similarity": 0.7856968839033743
+  },
+  {
+    "fact_id_a": 186,
+    "fact_id_b": 760,
+    "similarity": 0.8448937766413452
+  },
+  {
+    "fact_id_a": 186,
+    "fact_id_b": 741,
+    "similarity": 0.8282594044804622
+  },
+  {
+    "fact_id_a": 186,
+    "fact_id_b": 740,
+    "similarity": 0.810718920713881
+  },
+  {
+    "fact_id_a": 189,
+    "fact_id_b": 783,
+    "similarity": 0.984916225487652
+  },
+  {
+    "fact_id_a": 189,
+    "fact_id_b": 788,
+    "similarity": 0.9580660217080486
+  },
+  {
+    "fact_id_a": 189,
+    "fact_id_b": 780,
+    "similarity": 0.8994043246989424
+  },
+  {
+    "fact_id_a": 190,
+    "fact_id_b": 775,
+    "similarity": 0.8229546975136286
+  },
+  {
+    "fact_id_a": 190,
+    "fact_id_b": 783,
+    "similarity": 0.8195898956111892
+  },
+  {
+    "fact_id_a": 190,
+    "fact_id_b": 788,
+    "similarity": 0.8004262163920871
+  },
+  {
+    "fact_id_a": 260,
+    "fact_id_b": 892,
+    "similarity": 0.8113214334183253
+  },
+  {
+    "fact_id_a": 260,
+    "fact_id_b": 711,
+    "similarity": 0.8064702833150869
+  },
+  {
+    "fact_id_a": 260,
+    "fact_id_b": 831,
+    "similarity": 0.8062135928718936
+  },
+  {
+    "fact_id_a": 261,
+    "fact_id_b": 711,
+    "similarity": 0.8138577208708659
+  },
+  {
+    "fact_id_a": 261,
+    "fact_id_b": 892,
+    "similarity": 0.8103058705309898
+  },
+  {
+    "fact_id_a": 261,
+    "fact_id_b": 896,
+    "similarity": 0.8019983769324432
+  },
+  {
+    "fact_id_a": 262,
+    "fact_id_b": 1054,
+    "similarity": 0.8157295905418076
+  },
+  {
+    "fact_id_a": 262,
+    "fact_id_b": 813,
+    "similarity": 0.8064414859058767
+  },
+  {
+    "fact_id_a": 262,
+    "fact_id_b": 830,
+    "similarity": 0.7897813629711881
+  },
+  {
+    "fact_id_a": 263,
+    "fact_id_b": 710,
+    "similarity": 0.8142703788286566
+  },
+  {
+    "fact_id_a": 263,
+    "fact_id_b": 711,
+    "similarity": 0.8138963527416518
+  },
+  {
+    "fact_id_a": 263,
+    "fact_id_b": 831,
+    "similarity": 0.7892140679596893
+  },
+  {
+    "fact_id_a": 264,
+    "fact_id_b": 710,
+    "similarity": 0.7763284304084572
+  },
+  {
+    "fact_id_a": 264,
+    "fact_id_b": 711,
+    "similarity": 0.7716202554375143
+  },
+  {
+    "fact_id_a": 264,
+    "fact_id_b": 892,
+    "similarity": 0.7512938015605436
+  },
+  {
+    "fact_id_a": 266,
+    "fact_id_b": 809,
+    "similarity": 0.7927918284399145
+  },
+  {
+    "fact_id_a": 266,
+    "fact_id_b": 892,
+    "similarity": 0.7815894687506532
+  },
+  {
+    "fact_id_a": 266,
+    "fact_id_b": 823,
+    "similarity": 0.7726714447547242
+  },
+  {
+    "fact_id_a": 267,
+    "fact_id_b": 897,
+    "similarity": 0.8149378637130431
+  },
+  {
+    "fact_id_a": 267,
+    "fact_id_b": 809,
+    "similarity": 0.8072328993435416
+  },
+  {
+    "fact_id_a": 267,
+    "fact_id_b": 1055,
+    "similarity": 0.8066703362626283
+  },
+  {
+    "fact_id_a": 268,
+    "fact_id_b": 809,
+    "similarity": 0.8468748956933922
+  },
+  {
+    "fact_id_a": 268,
+    "fact_id_b": 897,
+    "similarity": 0.8366579421957516
+  },
+  {
+    "fact_id_a": 268,
+    "fact_id_b": 1055,
+    "similarity": 0.8268813832413331
+  },
+  {
+    "fact_id_a": 269,
+    "fact_id_b": 1041,
+    "similarity": 0.7903519617653977
+  },
+  {
+    "fact_id_a": 278,
+    "fact_id_b": 909,
+    "similarity": 0.8361430843393586
+  },
+  {
+    "fact_id_a": 278,
+    "fact_id_b": 912,
+    "similarity": 0.8179303801773613
+  },
+  {
+    "fact_id_a": 278,
+    "fact_id_b": 910,
+    "similarity": 0.817400944775989
+  },
+  {
+    "fact_id_a": 279,
+    "fact_id_b": 704,
+    "similarity": 0.8771322744361295
+  },
+  {
+    "fact_id_a": 279,
+    "fact_id_b": 1012,
+    "similarity": 0.7707226865316239
+  },
+  {
+    "fact_id_a": 279,
+    "fact_id_b": 703,
+    "similarity": 0.7601569344517989
+  },
+  {
+    "fact_id_a": 280,
+    "fact_id_b": 703,
+    "similarity": 0.8372250155754467
+  },
+  {
+    "fact_id_a": 280,
+    "fact_id_b": 705,
+    "similarity": 0.7880423412973873
+  },
+  {
+    "fact_id_a": 280,
+    "fact_id_b": 1097,
+    "similarity": 0.7568622669973329
+  },
+  {
+    "fact_id_a": 281,
+    "fact_id_b": 703,
+    "similarity": 0.8290971701801785
+  },
+  {
+    "fact_id_a": 281,
+    "fact_id_b": 1097,
+    "similarity": 0.8032536530188712
+  },
+  {
+    "fact_id_a": 281,
+    "fact_id_b": 1098,
+    "similarity": 0.8032536530188712
+  },
+  {
+    "fact_id_a": 282,
+    "fact_id_b": 703,
+    "similarity": 0.8148067130364673
+  },
+  {
+    "fact_id_a": 282,
+    "fact_id_b": 704,
+    "similarity": 0.7645465854100519
+  },
+  {
+    "fact_id_a": 282,
+    "fact_id_b": 705,
+    "similarity": 0.7588087579829972
+  },
+  {
+    "fact_id_a": 283,
+    "fact_id_b": 703,
+    "similarity": 0.7896873134998543
+  },
+  {
+    "fact_id_a": 283,
+    "fact_id_b": 705,
+    "similarity": 0.7627680863512613
+  },
+  {
+    "fact_id_a": 283,
+    "fact_id_b": 711,
+    "similarity": 0.7611080334001699
+  },
+  {
+    "fact_id_a": 284,
+    "fact_id_b": 703,
+    "similarity": 0.7946179994978411
+  },
+  {
+    "fact_id_a": 284,
+    "fact_id_b": 711,
+    "similarity": 0.7737269941458738
+  },
+  {
+    "fact_id_a": 284,
+    "fact_id_b": 705,
+    "similarity": 0.7685423610582138
+  },
+  {
+    "fact_id_a": 285,
+    "fact_id_b": 719,
+    "similarity": 0.7560184261163443
+  },
+  {
+    "fact_id_a": 285,
+    "fact_id_b": 718,
+    "similarity": 0.7555929855094695
+  },
+  {
+    "fact_id_a": 286,
+    "fact_id_b": 703,
+    "similarity": 0.8414847489805558
+  },
+  {
+    "fact_id_a": 286,
+    "fact_id_b": 1097,
+    "similarity": 0.8322943465488226
+  },
+  {
+    "fact_id_a": 286,
+    "fact_id_b": 1098,
+    "similarity": 0.8322943465488226
+  },
+  {
+    "fact_id_a": 287,
+    "fact_id_b": 703,
+    "similarity": 0.8840464929086278
+  },
+  {
+    "fact_id_a": 287,
+    "fact_id_b": 705,
+    "similarity": 0.8040360706466805
+  },
+  {
+    "fact_id_a": 287,
+    "fact_id_b": 1097,
+    "similarity": 0.7861221698196095
+  },
+  {
+    "fact_id_a": 288,
+    "fact_id_b": 703,
+    "similarity": 0.8705128719832189
+  },
+  {
+    "fact_id_a": 288,
+    "fact_id_b": 705,
+    "similarity": 0.7970023485279331
+  },
+  {
+    "fact_id_a": 288,
+    "fact_id_b": 1097,
+    "similarity": 0.7673040730926964
+  },
+  {
+    "fact_id_a": 290,
+    "fact_id_b": 919,
+    "similarity": 0.8113788949885978
+  },
+  {
+    "fact_id_a": 290,
+    "fact_id_b": 1044,
+    "similarity": 0.8096374515605363
+  },
+  {
+    "fact_id_a": 290,
+    "fact_id_b": 882,
+    "similarity": 0.8089607433317539
+  },
+  {
+    "fact_id_a": 291,
+    "fact_id_b": 1053,
+    "similarity": 0.8201330223055264
+  },
+  {
+    "fact_id_a": 291,
+    "fact_id_b": 1012,
+    "similarity": 0.8027519886022263
+  },
+  {
+    "fact_id_a": 291,
+    "fact_id_b": 1044,
+    "similarity": 0.7931460306182813
+  },
+  {
+    "fact_id_a": 292,
+    "fact_id_b": 920,
+    "similarity": 0.8035618479557697
+  },
+  {
+    "fact_id_a": 292,
+    "fact_id_b": 883,
+    "similarity": 0.8024029665494689
+  },
+  {
+    "fact_id_a": 292,
+    "fact_id_b": 915,
+    "similarity": 0.7907568479672312
+  },
+  {
+    "fact_id_a": 293,
+    "fact_id_b": 920,
+    "similarity": 0.799662813012315
+  },
+  {
+    "fact_id_a": 293,
+    "fact_id_b": 883,
+    "similarity": 0.7971527275322802
+  },
+  {
+    "fact_id_a": 293,
+    "fact_id_b": 915,
+    "similarity": 0.7874935793716881
+  },
+  {
+    "fact_id_a": 294,
+    "fact_id_b": 886,
+    "similarity": 0.7899020422156235
+  },
+  {
+    "fact_id_a": 294,
+    "fact_id_b": 920,
+    "similarity": 0.7828551433449218
+  },
+  {
+    "fact_id_a": 294,
+    "fact_id_b": 923,
+    "similarity": 0.7828198556859124
+  },
+  {
+    "fact_id_a": 295,
+    "fact_id_b": 892,
+    "similarity": 0.8406676862151018
+  },
+  {
+    "fact_id_a": 295,
+    "fact_id_b": 887,
+    "similarity": 0.8288107424742277
+  },
+  {
+    "fact_id_a": 295,
+    "fact_id_b": 924,
+    "similarity": 0.8247179358819899
+  },
+  {
+    "fact_id_a": 296,
+    "fact_id_b": 809,
+    "similarity": 0.892290532968644
+  },
+  {
+    "fact_id_a": 296,
+    "fact_id_b": 897,
+    "similarity": 0.8842283569015111
+  },
+  {
+    "fact_id_a": 296,
+    "fact_id_b": 1055,
+    "similarity": 0.8808693317274173
+  },
+  {
+    "fact_id_a": 297,
+    "fact_id_b": 703,
+    "similarity": 0.7746442013045335
+  },
+  {
+    "fact_id_a": 297,
+    "fact_id_b": 705,
+    "similarity": 0.7595993947602235
+  },
+  {
+    "fact_id_a": 297,
+    "fact_id_b": 933,
+    "similarity": 0.7559749017916567
+  },
+  {
+    "fact_id_a": 298,
+    "fact_id_b": 898,
+    "similarity": 0.8655459069151843
+  },
+  {
+    "fact_id_a": 298,
+    "fact_id_b": 1055,
+    "similarity": 0.8633463293139338
+  },
+  {
+    "fact_id_a": 298,
+    "fact_id_b": 809,
+    "similarity": 0.8613794429762472
+  },
+  {
+    "fact_id_a": 299,
+    "fact_id_b": 823,
+    "similarity": 0.7781362756750149
+  },
+  {
+    "fact_id_a": 299,
+    "fact_id_b": 1074,
+    "similarity": 0.7781362756750149
+  },
+  {
+    "fact_id_a": 299,
+    "fact_id_b": 809,
+    "similarity": 0.7765852280684219
+  },
+  {
+    "fact_id_a": 300,
+    "fact_id_b": 782,
+    "similarity": 0.7865952561117688
+  },
+  {
+    "fact_id_a": 300,
+    "fact_id_b": 774,
+    "similarity": 0.7860915605868712
+  },
+  {
+    "fact_id_a": 300,
+    "fact_id_b": 818,
+    "similarity": 0.7833527734494088
+  },
+  {
+    "fact_id_a": 301,
+    "fact_id_b": 1041,
+    "similarity": 0.7750362116728557
+  },
+  {
+    "fact_id_a": 307,
+    "fact_id_b": 1044,
+    "similarity": 0.7909968946051457
+  },
+  {
+    "fact_id_a": 307,
+    "fact_id_b": 914,
+    "similarity": 0.7810133807911717
+  },
+  {
+    "fact_id_a": 307,
+    "fact_id_b": 811,
+    "similarity": 0.7751476276287131
+  },
+  {
+    "fact_id_a": 308,
+    "fact_id_b": 758,
+    "similarity": 0.8445044636976028
+  },
+  {
+    "fact_id_a": 308,
+    "fact_id_b": 739,
+    "similarity": 0.8237266200378877
+  },
+  {
+    "fact_id_a": 308,
+    "fact_id_b": 715,
+    "similarity": 0.8010022152903093
+  },
+  {
+    "fact_id_a": 309,
+    "fact_id_b": 758,
+    "similarity": 0.8492700326581168
+  },
+  {
+    "fact_id_a": 309,
+    "fact_id_b": 739,
+    "similarity": 0.8353885900037814
+  },
+  {
+    "fact_id_a": 309,
+    "fact_id_b": 715,
+    "similarity": 0.8050079188364506
+  },
+  {
+    "fact_id_a": 310,
+    "fact_id_b": 758,
+    "similarity": 0.8407009054864691
+  },
+  {
+    "fact_id_a": 310,
+    "fact_id_b": 739,
+    "similarity": 0.8255946251299736
+  },
+  {
+    "fact_id_a": 310,
+    "fact_id_b": 715,
+    "similarity": 0.8062276380740687
+  },
+  {
+    "fact_id_a": 311,
+    "fact_id_b": 758,
+    "similarity": 0.8007063831772557
+  },
+  {
+    "fact_id_a": 311,
+    "fact_id_b": 739,
+    "similarity": 0.7881894512115446
+  },
+  {
+    "fact_id_a": 311,
+    "fact_id_b": 715,
+    "similarity": 0.7738445656495329
+  },
+  {
+    "fact_id_a": 312,
+    "fact_id_b": 758,
+    "similarity": 0.8017825818994727
+  },
+  {
+    "fact_id_a": 312,
+    "fact_id_b": 739,
+    "similarity": 0.7831019231181291
+  },
+  {
+    "fact_id_a": 312,
+    "fact_id_b": 715,
+    "similarity": 0.7830862932990299
+  },
+  {
+    "fact_id_a": 313,
+    "fact_id_b": 758,
+    "similarity": 0.8002040172990479
+  },
+  {
+    "fact_id_a": 313,
+    "fact_id_b": 803,
+    "similarity": 0.7969564647796674
+  },
+  {
+    "fact_id_a": 313,
+    "fact_id_b": 1010,
+    "similarity": 0.7952314753215939
+  },
+  {
+    "fact_id_a": 314,
+    "fact_id_b": 758,
+    "similarity": 0.8032931232015984
+  },
+  {
+    "fact_id_a": 314,
+    "fact_id_b": 782,
+    "similarity": 0.7977550473848513
+  },
+  {
+    "fact_id_a": 314,
+    "fact_id_b": 739,
+    "similarity": 0.7960286214453025
+  },
+  {
+    "fact_id_a": 315,
+    "fact_id_b": 782,
+    "similarity": 0.7951817018956526
+  },
+  {
+    "fact_id_a": 315,
+    "fact_id_b": 803,
+    "similarity": 0.7884115665635605
+  },
+  {
+    "fact_id_a": 315,
+    "fact_id_b": 758,
+    "similarity": 0.7878866167642511
+  },
+  {
+    "fact_id_a": 316,
+    "fact_id_b": 883,
+    "similarity": 0.7894279304053105
+  },
+  {
+    "fact_id_a": 316,
+    "fact_id_b": 920,
+    "similarity": 0.7864289265069896
+  },
+  {
+    "fact_id_a": 316,
+    "fact_id_b": 915,
+    "similarity": 0.7789183215297668
+  },
+  {
+    "fact_id_a": 317,
+    "fact_id_b": 883,
+    "similarity": 0.7800944832119019
+  },
+  {
+    "fact_id_a": 317,
+    "fact_id_b": 920,
+    "similarity": 0.7787547831598794
+  },
+  {
+    "fact_id_a": 317,
+    "fact_id_b": 782,
+    "similarity": 0.7713390090043815
+  },
+  {
+    "fact_id_a": 321,
+    "fact_id_b": 775,
+    "similarity": 0.7551998876543241
+  },
+  {
+    "fact_id_a": 321,
+    "fact_id_b": 781,
+    "similarity": 0.7514114747033719
+  },
+  {
+    "fact_id_a": 325,
+    "fact_id_b": 1147,
+    "similarity": 0.8075902749245547
+  },
+  {
+    "fact_id_a": 325,
+    "fact_id_b": 703,
+    "similarity": 0.8021849506912897
+  },
+  {
+    "fact_id_a": 325,
+    "fact_id_b": 1148,
+    "similarity": 0.7918329463292552
+  },
+  {
+    "fact_id_a": 330,
+    "fact_id_b": 788,
+    "similarity": 0.8092459363485557
+  },
+  {
+    "fact_id_a": 330,
+    "fact_id_b": 774,
+    "similarity": 0.8011785242162134
+  },
+  {
+    "fact_id_a": 330,
+    "fact_id_b": 783,
+    "similarity": 0.8003893318328041
+  },
+  {
+    "fact_id_a": 331,
+    "fact_id_b": 774,
+    "similarity": 0.8062255288487127
+  },
+  {
+    "fact_id_a": 331,
+    "fact_id_b": 818,
+    "similarity": 0.7833841861114825
+  },
+  {
+    "fact_id_a": 331,
+    "fact_id_b": 775,
+    "similarity": 0.7787187791260696
+  },
+  {
+    "fact_id_a": 332,
+    "fact_id_b": 818,
+    "similarity": 0.8378630732822316
+  },
+  {
+    "fact_id_a": 332,
+    "fact_id_b": 1054,
+    "similarity": 0.8226434757888654
+  },
+  {
+    "fact_id_a": 332,
+    "fact_id_b": 892,
+    "similarity": 0.8098016611677098
+  },
+  {
+    "fact_id_a": 333,
+    "fact_id_b": 703,
+    "similarity": 0.7688776276796703
+  },
+  {
+    "fact_id_a": 333,
+    "fact_id_b": 774,
+    "similarity": 0.7555319806485399
+  },
+  {
+    "fact_id_a": 334,
+    "fact_id_b": 703,
+    "similarity": 0.7593397686073597
+  },
+  {
+    "fact_id_a": 335,
+    "fact_id_b": 774,
+    "similarity": 0.7889557819986505
+  },
+  {
+    "fact_id_a": 335,
+    "fact_id_b": 782,
+    "similarity": 0.7588411531128985
+  },
+  {
+    "fact_id_a": 335,
+    "fact_id_b": 1149,
+    "similarity": 0.756433339080767
+  },
+  {
+    "fact_id_a": 339,
+    "fact_id_b": 818,
+    "similarity": 0.7550965897867943
+  },
+  {
+    "fact_id_a": 342,
+    "fact_id_b": 711,
+    "similarity": 0.7503972253551603
+  },
+  {
+    "fact_id_a": 344,
+    "fact_id_b": 1055,
+    "similarity": 0.7772108484477108
+  },
+  {
+    "fact_id_a": 344,
+    "fact_id_b": 809,
+    "similarity": 0.76835368374316
+  },
+  {
+    "fact_id_a": 344,
+    "fact_id_b": 897,
+    "similarity": 0.7682562581517708
+  },
+  {
+    "fact_id_a": 345,
+    "fact_id_b": 809,
+    "similarity": 0.7635152622956904
+  },
+  {
+    "fact_id_a": 345,
+    "fact_id_b": 904,
+    "similarity": 0.7631703767200679
+  },
+  {
+    "fact_id_a": 345,
+    "fact_id_b": 823,
+    "similarity": 0.7576159255589185
+  },
+  {
+    "fact_id_a": 346,
+    "fact_id_b": 909,
+    "similarity": 0.7956386842794014
+  },
+  {
+    "fact_id_a": 346,
+    "fact_id_b": 910,
+    "similarity": 0.7935427630117811
+  },
+  {
+    "fact_id_a": 346,
+    "fact_id_b": 913,
+    "similarity": 0.783083780691195
+  },
+  {
+    "fact_id_a": 347,
+    "fact_id_b": 1097,
+    "similarity": 0.7556279264958329
+  },
+  {
+    "fact_id_a": 347,
+    "fact_id_b": 1098,
+    "similarity": 0.7556279264958329
+  },
+  {
+    "fact_id_a": 347,
+    "fact_id_b": 1099,
+    "similarity": 0.7556279264958329
+  },
+  {
+    "fact_id_a": 348,
+    "fact_id_b": 914,
+    "similarity": 0.8190782198004917
+  },
+  {
+    "fact_id_a": 348,
+    "fact_id_b": 915,
+    "similarity": 0.8077281133658285
+  },
+  {
+    "fact_id_a": 348,
+    "fact_id_b": 916,
+    "similarity": 0.8006755581514426
+  },
+  {
+    "fact_id_a": 350,
+    "fact_id_b": 706,
+    "similarity": 0.7632733249253693
+  },
+  {
+    "fact_id_a": 351,
+    "fact_id_b": 775,
+    "similarity": 0.7795904304495261
+  },
+  {
+    "fact_id_a": 351,
+    "fact_id_b": 774,
+    "similarity": 0.7534411512025511
+  },
+  {
+    "fact_id_a": 353,
+    "fact_id_b": 1097,
+    "similarity": 0.7832354097208247
+  },
+  {
+    "fact_id_a": 353,
+    "fact_id_b": 1098,
+    "similarity": 0.7832354097208247
+  },
+  {
+    "fact_id_a": 353,
+    "fact_id_b": 1099,
+    "similarity": 0.7832354097208247
+  },
+  {
+    "fact_id_a": 354,
+    "fact_id_b": 706,
+    "similarity": 0.813882373514426
+  },
+  {
+    "fact_id_a": 354,
+    "fact_id_b": 703,
+    "similarity": 0.7900673665569429
+  },
+  {
+    "fact_id_a": 354,
+    "fact_id_b": 705,
+    "similarity": 0.7502499698131095
+  },
+  {
+    "fact_id_a": 357,
+    "fact_id_b": 1041,
+    "similarity": 0.7576567753614956
+  },
+  {
+    "fact_id_a": 377,
+    "fact_id_b": 774,
+    "similarity": 0.7920795698472709
+  },
+  {
+    "fact_id_a": 377,
+    "fact_id_b": 788,
+    "similarity": 0.7584446295274919
+  },
+  {
+    "fact_id_a": 377,
+    "fact_id_b": 775,
+    "similarity": 0.7525641866884373
+  },
+  {
+    "fact_id_a": 379,
+    "fact_id_b": 780,
+    "similarity": 0.8594062470031651
+  },
+  {
+    "fact_id_a": 379,
+    "fact_id_b": 788,
+    "similarity": 0.8579500734434085
+  },
+  {
+    "fact_id_a": 379,
+    "fact_id_b": 783,
+    "similarity": 0.8283421120887923
+  },
+  {
+    "fact_id_a": 382,
+    "fact_id_b": 725,
+    "similarity": 0.755887306066006
+  },
+  {
+    "fact_id_a": 382,
+    "fact_id_b": 731,
+    "similarity": 0.7544796877563751
+  },
+  {
+    "fact_id_a": 382,
+    "fact_id_b": 724,
+    "similarity": 0.754478291568923
+  },
+  {
+    "fact_id_a": 393,
+    "fact_id_b": 774,
+    "similarity": 0.8714986551399413
+  },
+  {
+    "fact_id_a": 393,
+    "fact_id_b": 788,
+    "similarity": 0.8381572510028696
+  },
+  {
+    "fact_id_a": 393,
+    "fact_id_b": 783,
+    "similarity": 0.8286755622171501
+  },
+  {
+    "fact_id_a": 394,
+    "fact_id_b": 783,
+    "similarity": 0.8708936939499832
+  },
+  {
+    "fact_id_a": 394,
+    "fact_id_b": 788,
+    "similarity": 0.8554510041200641
+  },
+  {
+    "fact_id_a": 394,
+    "fact_id_b": 780,
+    "similarity": 0.8334715817046501
+  },
+  {
+    "fact_id_a": 397,
+    "fact_id_b": 783,
+    "similarity": 0.7657330316954591
+  },
+  {
+    "fact_id_a": 398,
+    "fact_id_b": 731,
+    "similarity": 0.7614262985471568
+  },
+  {
+    "fact_id_a": 398,
+    "fact_id_b": 725,
+    "similarity": 0.7605306622090933
+  },
+  {
+    "fact_id_a": 398,
+    "fact_id_b": 774,
+    "similarity": 0.7557725304137344
+  },
+  {
+    "fact_id_a": 616,
+    "fact_id_b": 1183,
+    "similarity": 0.7993259526249206
+  },
+  {
+    "fact_id_a": 616,
+    "fact_id_b": 1184,
+    "similarity": 0.7644069884220445
+  },
+  {
+    "fact_id_a": 645,
+    "fact_id_b": 758,
+    "similarity": 0.8140033987578222
+  },
+  {
+    "fact_id_a": 645,
+    "fact_id_b": 782,
+    "similarity": 0.8068804745723034
+  },
+  {
+    "fact_id_a": 645,
+    "fact_id_b": 772,
+    "similarity": 0.800339144461319
+  },
+  {
+    "fact_id_a": 646,
+    "fact_id_b": 739,
+    "similarity": 0.8167011021011438
+  },
+  {
+    "fact_id_a": 646,
+    "fact_id_b": 758,
+    "similarity": 0.8120235194684783
+  },
+  {
+    "fact_id_a": 646,
+    "fact_id_b": 782,
+    "similarity": 0.8047439889671775
+  },
+  {
+    "fact_id_a": 647,
+    "fact_id_b": 739,
+    "similarity": 0.8118102382232246
+  },
+  {
+    "fact_id_a": 647,
+    "fact_id_b": 758,
+    "similarity": 0.8115925914023676
+  },
+  {
+    "fact_id_a": 647,
+    "fact_id_b": 782,
+    "similarity": 0.8076520526473879
+  },
+  {
+    "fact_id_a": 648,
+    "fact_id_b": 782,
+    "similarity": 0.8635339965461428
+  },
+  {
+    "fact_id_a": 648,
+    "fact_id_b": 776,
+    "similarity": 0.8303884986244918
+  },
+  {
+    "fact_id_a": 648,
+    "fact_id_b": 785,
+    "similarity": 0.8212596790062506
+  },
+  {
+    "fact_id_a": 649,
+    "fact_id_b": 782,
+    "similarity": 0.8635339965461428
+  },
+  {
+    "fact_id_a": 649,
+    "fact_id_b": 776,
+    "similarity": 0.8303884986244918
+  },
+  {
+    "fact_id_a": 649,
+    "fact_id_b": 785,
+    "similarity": 0.8212596790062506
+  },
+  {
+    "fact_id_a": 650,
+    "fact_id_b": 782,
+    "similarity": 0.8847418737400038
+  },
+  {
+    "fact_id_a": 650,
+    "fact_id_b": 776,
+    "similarity": 0.8488196943884231
+  },
+  {
+    "fact_id_a": 650,
+    "fact_id_b": 785,
+    "similarity": 0.8460014950662342
+  },
+  {
+    "fact_id_a": 651,
+    "fact_id_b": 739,
+    "similarity": 0.8118102382232246
+  },
+  {
+    "fact_id_a": 651,
+    "fact_id_b": 758,
+    "similarity": 0.8115925914023676
+  },
+  {
+    "fact_id_a": 651,
+    "fact_id_b": 782,
+    "similarity": 0.8076520526473879
+  },
+  {
+    "fact_id_a": 652,
+    "fact_id_b": 1157,
+    "similarity": 0.8275543757778562
+  },
+  {
+    "fact_id_a": 652,
+    "fact_id_b": 1158,
+    "similarity": 0.8154503246710899
+  },
+  {
+    "fact_id_a": 652,
+    "fact_id_b": 750,
+    "similarity": 0.8098445527857173
+  },
+  {
+    "fact_id_a": 655,
+    "fact_id_b": 1157,
+    "similarity": 0.8268657970840956
+  },
+  {
+    "fact_id_a": 655,
+    "fact_id_b": 782,
+    "similarity": 0.8176662442591619
+  },
+  {
+    "fact_id_a": 655,
+    "fact_id_b": 1158,
+    "similarity": 0.8066109590017626
+  },
+  {
+    "fact_id_a": 657,
+    "fact_id_b": 1157,
+    "similarity": 0.8288361658279048
+  },
+  {
+    "fact_id_a": 657,
+    "fact_id_b": 1158,
+    "similarity": 0.8175786754853456
+  },
+  {
+    "fact_id_a": 657,
+    "fact_id_b": 750,
+    "similarity": 0.8116400255637557
+  },
+  {
+    "fact_id_a": 658,
+    "fact_id_b": 784,
+    "similarity": 0.9168558914922323
+  },
+  {
+    "fact_id_a": 658,
+    "fact_id_b": 786,
+    "similarity": 0.9035832083981196
+  },
+  {
+    "fact_id_a": 658,
+    "fact_id_b": 782,
+    "similarity": 0.8151827978156778
+  },
+  {
+    "fact_id_a": 663,
+    "fact_id_b": 1041,
+    "similarity": 0.8331209225140705
+  },
+  {
+    "fact_id_a": 665,
+    "fact_id_b": 717,
+    "similarity": 0.8005299145603576
+  },
+  {
+    "fact_id_a": 665,
+    "fact_id_b": 739,
+    "similarity": 0.7949283192759441
+  },
+  {
+    "fact_id_a": 665,
+    "fact_id_b": 758,
+    "similarity": 0.7839844668339391
+  },
+  {
+    "fact_id_a": 677,
+    "fact_id_b": 787,
+    "similarity": 0.825922981237497
+  },
+  {
+    "fact_id_a": 677,
+    "fact_id_b": 782,
+    "similarity": 0.8178496335905748
+  },
+  {
+    "fact_id_a": 677,
+    "fact_id_b": 785,
+    "similarity": 0.8020603538387994
+  },
+  {
+    "fact_id_a": 678,
+    "fact_id_b": 782,
+    "similarity": 0.7997315986265542
+  },
+  {
+    "fact_id_a": 678,
+    "fact_id_b": 717,
+    "similarity": 0.7894313593403822
+  },
+  {
+    "fact_id_a": 678,
+    "fact_id_b": 787,
+    "similarity": 0.7747953384142358
+  },
+  {
+    "fact_id_a": 679,
+    "fact_id_b": 782,
+    "similarity": 0.7996113244111002
+  },
+  {
+    "fact_id_a": 679,
+    "fact_id_b": 717,
+    "similarity": 0.7864479478484342
+  },
+  {
+    "fact_id_a": 679,
+    "fact_id_b": 892,
+    "similarity": 0.7657843383096159
+  },
+  {
+    "fact_id_a": 690,
+    "fact_id_b": 780,
+    "similarity": 0.7998736215240625
+  },
+  {
+    "fact_id_a": 690,
+    "fact_id_b": 781,
+    "similarity": 0.7941672038553544
+  },
+  {
+    "fact_id_a": 690,
+    "fact_id_b": 786,
+    "similarity": 0.7818827293640622
+  },
+  {
+    "fact_id_a": 694,
+    "fact_id_b": 781,
+    "similarity": 0.7545976591507386
+  },
+  {
+    "fact_id_a": 694,
+    "fact_id_b": 711,
+    "similarity": 0.7513274101976475
+  },
+  {
+    "fact_id_a": 695,
+    "fact_id_b": 1153,
+    "similarity": 0.7651668019391978
+  },
+  {
+    "fact_id_a": 695,
+    "fact_id_b": 1154,
+    "similarity": 0.7632681267129751
+  },
+  {
+    "fact_id_a": 695,
+    "fact_id_b": 775,
+    "similarity": 0.7538171802203288
+  },
+  {
+    "fact_id_a": 696,
+    "fact_id_b": 704,
+    "similarity": 0.7934299872393612
+  },
+  {
+    "fact_id_a": 696,
+    "fact_id_b": 708,
+    "similarity": 0.7905647682315179
+  },
+  {
+    "fact_id_a": 696,
+    "fact_id_b": 706,
+    "similarity": 0.7895235563628621
+  },
+  {
+    "fact_id_a": 704,
+    "fact_id_b": 394,
+    "similarity": 0.7820334810794535
+  },
+  {
+    "fact_id_a": 705,
+    "fact_id_b": 261,
+    "similarity": 0.8005772811884292
+  },
+  {
+    "fact_id_a": 706,
+    "fact_id_b": 353,
+    "similarity": 0.7695359592267267
+  },
+  {
+    "fact_id_a": 708,
+    "fact_id_b": 282,
+    "similarity": 0.7533015993960678
+  },
+  {
+    "fact_id_a": 708,
+    "fact_id_b": 283,
+    "similarity": 0.7526629670650563
+  },
+  {
+    "fact_id_a": 710,
+    "fact_id_b": 696,
+    "similarity": 0.7735812084493868
+  },
+  {
+    "fact_id_a": 711,
+    "fact_id_b": 1054,
+    "similarity": 0.8140900528056587
+  },
+  {
+    "fact_id_a": 715,
+    "fact_id_b": 801,
+    "similarity": 0.9552077097258701
+  },
+  {
+    "fact_id_a": 715,
+    "fact_id_b": 816,
+    "similarity": 0.9552077097258701
+  },
+  {
+    "fact_id_a": 715,
+    "fact_id_b": 1049,
+    "similarity": 0.9552077097258701
+  },
+  {
+    "fact_id_a": 716,
+    "fact_id_b": 814,
+    "similarity": 0.9730493557850494
+  },
+  {
+    "fact_id_a": 716,
+    "fact_id_b": 1045,
+    "similarity": 0.9730493557850494
+  },
+  {
+    "fact_id_a": 716,
+    "fact_id_b": 799,
+    "similarity": 0.9666961624725247
+  },
+  {
+    "fact_id_a": 717,
+    "fact_id_b": 804,
+    "similarity": 0.9341000401554527
+  },
+  {
+    "fact_id_a": 717,
+    "fact_id_b": 803,
+    "similarity": 0.8810564595435812
+  },
+  {
+    "fact_id_a": 717,
+    "fact_id_b": 836,
+    "similarity": 0.8622013577954292
+  },
+  {
+    "fact_id_a": 718,
+    "fact_id_b": 1135,
+    "similarity": 0.8313572560384214
+  },
+  {
+    "fact_id_a": 718,
+    "fact_id_b": 1136,
+    "similarity": 0.8035909073054712
+  },
+  {
+    "fact_id_a": 718,
+    "fact_id_b": 31,
+    "similarity": 0.7884167201931339
+  },
+  {
+    "fact_id_a": 719,
+    "fact_id_b": 1135,
+    "similarity": 0.8574042786780969
+  },
+  {
+    "fact_id_a": 719,
+    "fact_id_b": 1136,
+    "similarity": 0.8157467089527772
+  },
+  {
+    "fact_id_a": 719,
+    "fact_id_b": 1157,
+    "similarity": 0.8137786706793384
+  },
+  {
+    "fact_id_a": 720,
+    "fact_id_b": 1136,
+    "similarity": 0.8500900751445647
+  },
+  {
+    "fact_id_a": 720,
+    "fact_id_b": 993,
+    "similarity": 0.8392664672474018
+  },
+  {
+    "fact_id_a": 720,
+    "fact_id_b": 1202,
+    "similarity": 0.8392664672474018
+  },
+  {
+    "fact_id_a": 721,
+    "fact_id_b": 993,
+    "similarity": 0.8543274274899118
+  },
+  {
+    "fact_id_a": 721,
+    "fact_id_b": 1202,
+    "similarity": 0.8543274274899118
+  },
+  {
+    "fact_id_a": 721,
+    "fact_id_b": 997,
+    "similarity": 0.8509179808888361
+  },
+  {
+    "fact_id_a": 722,
+    "fact_id_b": 1136,
+    "similarity": 0.810544468573625
+  },
+  {
+    "fact_id_a": 722,
+    "fact_id_b": 997,
+    "similarity": 0.8070014919689383
+  },
+  {
+    "fact_id_a": 722,
+    "fact_id_b": 1206,
+    "similarity": 0.8070014919689383
+  },
+  {
+    "fact_id_a": 723,
+    "fact_id_b": 997,
+    "similarity": 0.8223193303338857
+  },
+  {
+    "fact_id_a": 723,
+    "fact_id_b": 1206,
+    "similarity": 0.8223193303338857
+  },
+  {
+    "fact_id_a": 723,
+    "fact_id_b": 1136,
+    "similarity": 0.8187667827530625
+  },
+  {
+    "fact_id_a": 724,
+    "fact_id_b": 1136,
+    "similarity": 0.8262034354017239
+  },
+  {
+    "fact_id_a": 724,
+    "fact_id_b": 1158,
+    "similarity": 0.8087357240843647
+  },
+  {
+    "fact_id_a": 724,
+    "fact_id_b": 1192,
+    "similarity": 0.8056100851315545
+  },
+  {
+    "fact_id_a": 725,
+    "fact_id_b": 1135,
+    "similarity": 0.880862876883062
+  },
+  {
+    "fact_id_a": 725,
+    "fact_id_b": 1157,
+    "similarity": 0.8451212877690039
+  },
+  {
+    "fact_id_a": 725,
+    "fact_id_b": 1136,
+    "similarity": 0.8257777562999301
+  },
+  {
+    "fact_id_a": 726,
+    "fact_id_b": 1135,
+    "similarity": 0.90389963315773
+  },
+  {
+    "fact_id_a": 726,
+    "fact_id_b": 1157,
+    "similarity": 0.868302811764953
+  },
+  {
+    "fact_id_a": 726,
+    "fact_id_b": 1136,
+    "similarity": 0.8365572046957913
+  },
+  {
+    "fact_id_a": 727,
+    "fact_id_b": 1136,
+    "similarity": 0.8308465407511052
+  },
+  {
+    "fact_id_a": 727,
+    "fact_id_b": 997,
+    "similarity": 0.8235042813333783
+  },
+  {
+    "fact_id_a": 727,
+    "fact_id_b": 1206,
+    "similarity": 0.8235042813333783
+  },
+  {
+    "fact_id_a": 728,
+    "fact_id_b": 997,
+    "similarity": 0.8261397295186299
+  },
+  {
+    "fact_id_a": 728,
+    "fact_id_b": 1206,
+    "similarity": 0.8261397295186299
+  },
+  {
+    "fact_id_a": 728,
+    "fact_id_b": 1136,
+    "similarity": 0.8259938603030561
+  },
+  {
+    "fact_id_a": 729,
+    "fact_id_b": 997,
+    "similarity": 0.813229514984983
+  },
+  {
+    "fact_id_a": 729,
+    "fact_id_b": 1206,
+    "similarity": 0.813229514984983
+  },
+  {
+    "fact_id_a": 729,
+    "fact_id_b": 1136,
+    "similarity": 0.8094314671501689
+  },
+  {
+    "fact_id_a": 730,
+    "fact_id_b": 997,
+    "similarity": 0.8209408763546765
+  },
+  {
+    "fact_id_a": 730,
+    "fact_id_b": 1206,
+    "similarity": 0.8209408763546765
+  },
+  {
+    "fact_id_a": 730,
+    "fact_id_b": 1136,
+    "similarity": 0.8132529329911975
+  },
+  {
+    "fact_id_a": 731,
+    "fact_id_b": 1136,
+    "similarity": 0.8710592998031417
+  },
+  {
+    "fact_id_a": 731,
+    "fact_id_b": 1158,
+    "similarity": 0.8555022091775383
+  },
+  {
+    "fact_id_a": 731,
+    "fact_id_b": 1135,
+    "similarity": 0.840247407885976
+  },
+  {
+    "fact_id_a": 732,
+    "fact_id_b": 1136,
+    "similarity": 0.8828542870033135
+  },
+  {
+    "fact_id_a": 732,
+    "fact_id_b": 1158,
+    "similarity": 0.877687794706641
+  },
+  {
+    "fact_id_a": 732,
+    "fact_id_b": 1135,
+    "similarity": 0.8556116265856325
+  },
+  {
+    "fact_id_a": 733,
+    "fact_id_b": 1002,
+    "similarity": 0.8403697450409034
+  },
+  {
+    "fact_id_a": 733,
+    "fact_id_b": 1211,
+    "similarity": 0.8403697450409034
+  },
+  {
+    "fact_id_a": 733,
+    "fact_id_b": 1004,
+    "similarity": 0.8331001949751751
+  },
+  {
+    "fact_id_a": 734,
+    "fact_id_b": 1002,
+    "similarity": 0.8177440216412151
+  },
+  {
+    "fact_id_a": 734,
+    "fact_id_b": 1211,
+    "similarity": 0.8177440216412151
+  },
+  {
+    "fact_id_a": 734,
+    "fact_id_b": 1004,
+    "similarity": 0.7979741370408405
+  },
+  {
+    "fact_id_a": 735,
+    "fact_id_b": 1002,
+    "similarity": 0.8081113958931531
+  },
+  {
+    "fact_id_a": 735,
+    "fact_id_b": 1211,
+    "similarity": 0.8081113958931531
+  },
+  {
+    "fact_id_a": 735,
+    "fact_id_b": 1135,
+    "similarity": 0.7970247275105542
+  },
+  {
+    "fact_id_a": 736,
+    "fact_id_b": 1157,
+    "similarity": 0.8261815709414568
+  },
+  {
+    "fact_id_a": 736,
+    "fact_id_b": 1002,
+    "similarity": 0.8212037276377734
+  },
+  {
+    "fact_id_a": 736,
+    "fact_id_b": 1211,
+    "similarity": 0.8212037276377734
+  },
+  {
+    "fact_id_a": 737,
+    "fact_id_b": 1002,
+    "similarity": 0.8474155710694907
+  },
+  {
+    "fact_id_a": 737,
+    "fact_id_b": 1211,
+    "similarity": 0.8474155710694907
+  },
+  {
+    "fact_id_a": 737,
+    "fact_id_b": 1191,
+    "similarity": 0.8345537205336535
+  },
+  {
+    "fact_id_a": 738,
+    "fact_id_b": 1000,
+    "similarity": 0.8902958057790805
+  },
+  {
+    "fact_id_a": 738,
+    "fact_id_b": 1209,
+    "similarity": 0.8902958057790805
+  },
+  {
+    "fact_id_a": 739,
+    "fact_id_b": 802,
+    "similarity": 0.8723385126789932
+  },
+  {
+    "fact_id_a": 739,
+    "fact_id_b": 799,
+    "similarity": 0.8612491808505838
+  },
+  {
+    "fact_id_a": 742,
+    "fact_id_b": 997,
+    "similarity": 0.8120045657492581
+  },
+  {
+    "fact_id_a": 742,
+    "fact_id_b": 1206,
+    "similarity": 0.8120045657492581
+  },
+  {
+    "fact_id_a": 742,
+    "fact_id_b": 1192,
+    "similarity": 0.8033478357889775
+  },
+  {
+    "fact_id_a": 743,
+    "fact_id_b": 997,
+    "similarity": 0.8453187512796889
+  },
+  {
+    "fact_id_a": 743,
+    "fact_id_b": 1206,
+    "similarity": 0.8453187512796889
+  },
+  {
+    "fact_id_a": 743,
+    "fact_id_b": 977,
+    "similarity": 0.8322670441088922
+  },
+  {
+    "fact_id_a": 744,
+    "fact_id_b": 997,
+    "similarity": 0.8476173649201056
+  },
+  {
+    "fact_id_a": 744,
+    "fact_id_b": 1206,
+    "similarity": 0.8476173649201056
+  },
+  {
+    "fact_id_a": 744,
+    "fact_id_b": 993,
+    "similarity": 0.8341675062456648
+  },
+  {
+    "fact_id_a": 745,
+    "fact_id_b": 997,
+    "similarity": 0.8264183577954272
+  },
+  {
+    "fact_id_a": 745,
+    "fact_id_b": 1206,
+    "similarity": 0.8264183577954272
+  },
+  {
+    "fact_id_a": 745,
+    "fact_id_b": 993,
+    "similarity": 0.8088825364609358
+  },
+  {
+    "fact_id_a": 746,
+    "fact_id_b": 997,
+    "similarity": 0.841500174749009
+  },
+  {
+    "fact_id_a": 746,
+    "fact_id_b": 1206,
+    "similarity": 0.841500174749009
+  },
+  {
+    "fact_id_a": 746,
+    "fact_id_b": 993,
+    "similarity": 0.8323043802728792
+  },
+  {
+    "fact_id_a": 747,
+    "fact_id_b": 1005,
+    "similarity": 0.8634025786422861
+  },
+  {
+    "fact_id_a": 747,
+    "fact_id_b": 1214,
+    "similarity": 0.8634025786422861
+  },
+  {
+    "fact_id_a": 747,
+    "fact_id_b": 1158,
+    "similarity": 0.8549575072148905
+  },
+  {
+    "fact_id_a": 748,
+    "fact_id_b": 1158,
+    "similarity": 0.8386285636062448
+  },
+  {
+    "fact_id_a": 748,
+    "fact_id_b": 1005,
+    "similarity": 0.8364063672979203
+  },
+  {
+    "fact_id_a": 748,
+    "fact_id_b": 1214,
+    "similarity": 0.8364063672979203
+  },
+  {
+    "fact_id_a": 749,
+    "fact_id_b": 1142,
+    "similarity": 0.8310433058679827
+  },
+  {
+    "fact_id_a": 749,
+    "fact_id_b": 1158,
+    "similarity": 0.8304360814342255
+  },
+  {
+    "fact_id_a": 749,
+    "fact_id_b": 1144,
+    "similarity": 0.8252967651866807
+  },
+  {
+    "fact_id_a": 750,
+    "fact_id_b": 1158,
+    "similarity": 0.8583331776543135
+  },
+  {
+    "fact_id_a": 750,
+    "fact_id_b": 1005,
+    "similarity": 0.8436702628869369
+  },
+  {
+    "fact_id_a": 750,
+    "fact_id_b": 1214,
+    "similarity": 0.8436702628869369
+  },
+  {
+    "fact_id_a": 751,
+    "fact_id_b": 1192,
+    "similarity": 0.8627946210595585
+  },
+  {
+    "fact_id_a": 751,
+    "fact_id_b": 1005,
+    "similarity": 0.8586248501864879
+  },
+  {
+    "fact_id_a": 751,
+    "fact_id_b": 1214,
+    "similarity": 0.8586248501864879
+  },
+  {
+    "fact_id_a": 752,
+    "fact_id_b": 1001,
+    "similarity": 0.9083680576317292
+  },
+  {
+    "fact_id_a": 752,
+    "fact_id_b": 1210,
+    "similarity": 0.9083680576317292
+  },
+  {
+    "fact_id_a": 752,
+    "fact_id_b": 163,
+    "similarity": 0.891594189400429
+  },
+  {
+    "fact_id_a": 753,
+    "fact_id_b": 1002,
+    "similarity": 0.8122899109437571
+  },
+  {
+    "fact_id_a": 753,
+    "fact_id_b": 1211,
+    "similarity": 0.8122899109437571
+  },
+  {
+    "fact_id_a": 753,
+    "fact_id_b": 1003,
+    "similarity": 0.79555784803565
+  },
+  {
+    "fact_id_a": 754,
+    "fact_id_b": 1002,
+    "similarity": 0.7916007924727859
+  },
+  {
+    "fact_id_a": 754,
+    "fact_id_b": 1211,
+    "similarity": 0.7916007924727859
+  },
+  {
+    "fact_id_a": 754,
+    "fact_id_b": 655,
+    "similarity": 0.7750767254459103
+  },
+  {
+    "fact_id_a": 755,
+    "fact_id_b": 655,
+    "similarity": 0.7974561691912384
+  },
+  {
+    "fact_id_a": 755,
+    "fact_id_b": 657,
+    "similarity": 0.7948933745147228
+  },
+  {
+    "fact_id_a": 755,
+    "fact_id_b": 1002,
+    "similarity": 0.7934148723890506
+  },
+  {
+    "fact_id_a": 756,
+    "fact_id_b": 1002,
+    "similarity": 0.8213087240222574
+  },
+  {
+    "fact_id_a": 756,
+    "fact_id_b": 1211,
+    "similarity": 0.8213087240222574
+  },
+  {
+    "fact_id_a": 756,
+    "fact_id_b": 1003,
+    "similarity": 0.8020101066006341
+  },
+  {
+    "fact_id_a": 757,
+    "fact_id_b": 1000,
+    "similarity": 0.8643162899264694
+  },
+  {
+    "fact_id_a": 758,
+    "fact_id_b": 803,
+    "similarity": 0.8761512668549325
+  },
+  {
+    "fact_id_a": 761,
+    "fact_id_b": 996,
+    "similarity": 0.8056003370230749
+  },
+  {
+    "fact_id_a": 761,
+    "fact_id_b": 1205,
+    "similarity": 0.8056003370230749
+  },
+  {
+    "fact_id_a": 761,
+    "fact_id_b": 992,
+    "similarity": 0.7958490810905817
+  },
+  {
+    "fact_id_a": 762,
+    "fact_id_b": 996,
+    "similarity": 0.8308896417324205
+  },
+  {
+    "fact_id_a": 762,
+    "fact_id_b": 1205,
+    "similarity": 0.8308896417324205
+  },
+  {
+    "fact_id_a": 762,
+    "fact_id_b": 992,
+    "similarity": 0.8259081540996319
+  },
+  {
+    "fact_id_a": 763,
+    "fact_id_b": 996,
+    "similarity": 0.8428032338844405
+  },
+  {
+    "fact_id_a": 763,
+    "fact_id_b": 1205,
+    "similarity": 0.8428032338844405
+  },
+  {
+    "fact_id_a": 763,
+    "fact_id_b": 992,
+    "similarity": 0.8227767183381441
+  },
+  {
+    "fact_id_a": 764,
+    "fact_id_b": 992,
+    "similarity": 0.8429896551630504
+  },
+  {
+    "fact_id_a": 764,
+    "fact_id_b": 1201,
+    "similarity": 0.8429896551630504
+  },
+  {
+    "fact_id_a": 764,
+    "fact_id_b": 996,
+    "similarity": 0.8429821676459236
+  },
+  {
+    "fact_id_a": 765,
+    "fact_id_b": 996,
+    "similarity": 0.8411888662419174
+  },
+  {
+    "fact_id_a": 765,
+    "fact_id_b": 1205,
+    "similarity": 0.8411888662419174
+  },
+  {
+    "fact_id_a": 765,
+    "fact_id_b": 992,
+    "similarity": 0.8230100897734526
+  },
+  {
+    "fact_id_a": 766,
+    "fact_id_b": 996,
+    "similarity": 0.8427005353492178
+  },
+  {
+    "fact_id_a": 766,
+    "fact_id_b": 1205,
+    "similarity": 0.8427005353492178
+  },
+  {
+    "fact_id_a": 766,
+    "fact_id_b": 992,
+    "similarity": 0.8271039580483361
+  },
+  {
+    "fact_id_a": 767,
+    "fact_id_b": 996,
+    "similarity": 0.8316482709901504
+  },
+  {
+    "fact_id_a": 767,
+    "fact_id_b": 1205,
+    "similarity": 0.8316482709901504
+  },
+  {
+    "fact_id_a": 767,
+    "fact_id_b": 992,
+    "similarity": 0.8144568385628104
+  },
+  {
+    "fact_id_a": 768,
+    "fact_id_b": 1004,
+    "similarity": 0.8394094490471543
+  },
+  {
+    "fact_id_a": 768,
+    "fact_id_b": 1213,
+    "similarity": 0.8394094490471543
+  },
+  {
+    "fact_id_a": 768,
+    "fact_id_b": 1008,
+    "similarity": 0.8315898439775207
+  },
+  {
+    "fact_id_a": 769,
+    "fact_id_b": 1135,
+    "similarity": 0.8140571748540267
+  },
+  {
+    "fact_id_a": 769,
+    "fact_id_b": 968,
+    "similarity": 0.8097988427150724
+  },
+  {
+    "fact_id_a": 769,
+    "fact_id_b": 1002,
+    "similarity": 0.8064258632404663
+  },
+  {
+    "fact_id_a": 770,
+    "fact_id_b": 1135,
+    "similarity": 0.8168010472655199
+  },
+  {
+    "fact_id_a": 770,
+    "fact_id_b": 1157,
+    "similarity": 0.8026107434329601
+  },
+  {
+    "fact_id_a": 770,
+    "fact_id_b": 1139,
+    "similarity": 0.8015025372082129
+  },
+  {
+    "fact_id_a": 771,
+    "fact_id_b": 1157,
+    "similarity": 0.8258856421764524
+  },
+  {
+    "fact_id_a": 771,
+    "fact_id_b": 1191,
+    "similarity": 0.8209101396742584
+  },
+  {
+    "fact_id_a": 771,
+    "fact_id_b": 1135,
+    "similarity": 0.813411746119716
+  },
+  {
+    "fact_id_a": 772,
+    "fact_id_b": 1191,
+    "similarity": 0.8439635889999657
+  },
+  {
+    "fact_id_a": 772,
+    "fact_id_b": 1004,
+    "similarity": 0.8299088197379157
+  },
+  {
+    "fact_id_a": 772,
+    "fact_id_b": 1213,
+    "similarity": 0.8299088197379157
+  },
+  {
+    "fact_id_a": 773,
+    "fact_id_b": 1000,
+    "similarity": 0.9072137123088735
+  },
+  {
+    "fact_id_a": 773,
+    "fact_id_b": 1209,
+    "similarity": 0.9072137123088735
+  },
+  {
+    "fact_id_a": 774,
+    "fact_id_b": 394,
+    "similarity": 0.8042731044715358
+  },
+  {
+    "fact_id_a": 775,
+    "fact_id_b": 394,
+    "similarity": 0.8305292961692505
+  },
+  {
+    "fact_id_a": 775,
+    "fact_id_b": 393,
+    "similarity": 0.8286715305012551
+  },
+  {
+    "fact_id_a": 776,
+    "fact_id_b": 1192,
+    "similarity": 0.847478513179362
+  },
+  {
+    "fact_id_a": 776,
+    "fact_id_b": 1044,
+    "similarity": 0.8461126576142322
+  },
+  {
+    "fact_id_a": 781,
+    "fact_id_b": 658,
+    "similarity": 0.8117002718256433
+  },
+  {
+    "fact_id_a": 781,
+    "fact_id_b": 190,
+    "similarity": 0.7917111258079446
+  },
+  {
+    "fact_id_a": 784,
+    "fact_id_b": 1001,
+    "similarity": 0.7724729177671779
+  },
+  {
+    "fact_id_a": 784,
+    "fact_id_b": 1210,
+    "similarity": 0.7724729177671779
+  },
+  {
+    "fact_id_a": 785,
+    "fact_id_b": 1192,
+    "similarity": 0.862983767648415
+  },
+  {
+    "fact_id_a": 785,
+    "fact_id_b": 1044,
+    "similarity": 0.8581969671080556
+  },
+  {
+    "fact_id_a": 785,
+    "fact_id_b": 799,
+    "similarity": 0.8531943386146884
+  },
+  {
+    "fact_id_a": 786,
+    "fact_id_b": 33,
+    "similarity": 0.7752416658720267
+  },
+  {
+    "fact_id_a": 787,
+    "fact_id_b": 812,
+    "similarity": 0.8598996352631832
+  },
+  {
+    "fact_id_a": 787,
+    "fact_id_b": 973,
+    "similarity": 0.8355690601494017
+  },
+  {
+    "fact_id_a": 787,
+    "fact_id_b": 799,
+    "similarity": 0.8329293436212889
+  },
+  {
+    "fact_id_a": 790,
+    "fact_id_b": 394,
+    "similarity": 0.8013675766040809
+  },
+  {
+    "fact_id_a": 790,
+    "fact_id_b": 783,
+    "similarity": 0.7937467121503677
+  },
+  {
+    "fact_id_a": 790,
+    "fact_id_b": 788,
+    "similarity": 0.7931531041578183
+  },
+  {
+    "fact_id_a": 791,
+    "fact_id_b": 393,
+    "similarity": 0.7894556633384195
+  },
+  {
+    "fact_id_a": 791,
+    "fact_id_b": 394,
+    "similarity": 0.7890506537560701
+  },
+  {
+    "fact_id_a": 791,
+    "fact_id_b": 33,
+    "similarity": 0.7866385546908641
+  },
+  {
+    "fact_id_a": 792,
+    "fact_id_b": 787,
+    "similarity": 0.7978973069377816
+  },
+  {
+    "fact_id_a": 792,
+    "fact_id_b": 782,
+    "similarity": 0.7871033040463182
+  },
+  {
+    "fact_id_a": 793,
+    "fact_id_b": 787,
+    "similarity": 0.7865386092501907
+  },
+  {
+    "fact_id_a": 793,
+    "fact_id_b": 782,
+    "similarity": 0.7839051192031549
+  },
+  {
+    "fact_id_a": 793,
+    "fact_id_b": 677,
+    "similarity": 0.7770772585997331
+  },
+  {
+    "fact_id_a": 797,
+    "fact_id_b": 716,
+    "similarity": 0.7851675503086907
+  },
+  {
+    "fact_id_a": 799,
+    "fact_id_b": 715,
+    "similarity": 0.8784528496158666
+  },
+  {
+    "fact_id_a": 800,
+    "fact_id_b": 716,
+    "similarity": 0.9562750061108647
+  },
+  {
+    "fact_id_a": 800,
+    "fact_id_b": 715,
+    "similarity": 0.8584220112417853
+  },
+  {
+    "fact_id_a": 800,
+    "fact_id_b": 785,
+    "similarity": 0.8215072163471295
+  },
+  {
+    "fact_id_a": 801,
+    "fact_id_b": 716,
+    "similarity": 0.9048134734965512
+  },
+  {
+    "fact_id_a": 801,
+    "fact_id_b": 758,
+    "similarity": 0.8538917492606793
+  },
+  {
+    "fact_id_a": 802,
+    "fact_id_b": 716,
+    "similarity": 0.8826033493809536
+  },
+  {
+    "fact_id_a": 802,
+    "fact_id_b": 717,
+    "similarity": 0.8603275655843998
+  },
+  {
+    "fact_id_a": 803,
+    "fact_id_b": 715,
+    "similarity": 0.8625830859977058
+  },
+  {
+    "fact_id_a": 804,
+    "fact_id_b": 716,
+    "similarity": 0.8576533604555701
+  },
+  {
+    "fact_id_a": 804,
+    "fact_id_b": 785,
+    "similarity": 0.8128828423848701
+  },
+  {
+    "fact_id_a": 806,
+    "fact_id_b": 787,
+    "similarity": 0.8136394473066171
+  },
+  {
+    "fact_id_a": 806,
+    "fact_id_b": 716,
+    "similarity": 0.7976022023561129
+  },
+  {
+    "fact_id_a": 806,
+    "fact_id_b": 785,
+    "similarity": 0.7950566160162184
+  },
+  {
+    "fact_id_a": 807,
+    "fact_id_b": 758,
+    "similarity": 0.7733520455537802
+  },
+  {
+    "fact_id_a": 807,
+    "fact_id_b": 715,
+    "similarity": 0.7669001121005905
+  },
+  {
+    "fact_id_a": 808,
+    "fact_id_b": 716,
+    "similarity": 0.8203941084965618
+  },
+  {
+    "fact_id_a": 810,
+    "fact_id_b": 296,
+    "similarity": 0.8582640324967076
+  },
+  {
+    "fact_id_a": 810,
+    "fact_id_b": 298,
+    "similarity": 0.8357982124964525
+  },
+  {
+    "fact_id_a": 810,
+    "fact_id_b": 268,
+    "similarity": 0.821742771071389
+  },
+  {
+    "fact_id_a": 811,
+    "fact_id_b": 785,
+    "similarity": 0.8457309495484389
+  },
+  {
+    "fact_id_a": 811,
+    "fact_id_b": 739,
+    "similarity": 0.8436200578063855
+  },
+  {
+    "fact_id_a": 811,
+    "fact_id_b": 716,
+    "similarity": 0.8426021456630269
+  },
+  {
+    "fact_id_a": 812,
+    "fact_id_b": 785,
+    "similarity": 0.8504108896548941
+  },
+  {
+    "fact_id_a": 812,
+    "fact_id_b": 776,
+    "similarity": 0.8353658872903273
+  },
+  {
+    "fact_id_a": 813,
+    "fact_id_b": 716,
+    "similarity": 0.8126318305705189
+  },
+  {
+    "fact_id_a": 813,
+    "fact_id_b": 785,
+    "similarity": 0.8086437137356878
+  },
+  {
+    "fact_id_a": 813,
+    "fact_id_b": 776,
+    "similarity": 0.8079848330408018
+  },
+  {
+    "fact_id_a": 814,
+    "fact_id_b": 715,
+    "similarity": 0.8848572524475542
+  },
+  {
+    "fact_id_a": 814,
+    "fact_id_b": 739,
+    "similarity": 0.8565689059780192
+  },
+  {
+    "fact_id_a": 815,
+    "fact_id_b": 716,
+    "similarity": 0.9502393848042756
+  },
+  {
+    "fact_id_a": 815,
+    "fact_id_b": 715,
+    "similarity": 0.8571985077232674
+  },
+  {
+    "fact_id_a": 815,
+    "fact_id_b": 739,
+    "similarity": 0.8399898931965535
+  },
+  {
+    "fact_id_a": 816,
+    "fact_id_b": 716,
+    "similarity": 0.9048134734965512
+  },
+  {
+    "fact_id_a": 816,
+    "fact_id_b": 758,
+    "similarity": 0.8538917492606793
+  },
+  {
+    "fact_id_a": 817,
+    "fact_id_b": 715,
+    "similarity": 0.9265342485563218
+  },
+  {
+    "fact_id_a": 817,
+    "fact_id_b": 716,
+    "similarity": 0.8778631876227179
+  },
+  {
+    "fact_id_a": 817,
+    "fact_id_b": 758,
+    "similarity": 0.8297082421013126
+  },
+  {
+    "fact_id_a": 818,
+    "fact_id_b": 393,
+    "similarity": 0.7861971663843402
+  },
+  {
+    "fact_id_a": 819,
+    "fact_id_b": 716,
+    "similarity": 0.9451992236606144
+  },
+  {
+    "fact_id_a": 819,
+    "fact_id_b": 715,
+    "similarity": 0.8558725827459753
+  },
+  {
+    "fact_id_a": 819,
+    "fact_id_b": 739,
+    "similarity": 0.8517405867564531
+  },
+  {
+    "fact_id_a": 820,
+    "fact_id_b": 716,
+    "similarity": 0.9254767444226711
+  },
+  {
+    "fact_id_a": 820,
+    "fact_id_b": 739,
+    "similarity": 0.8313769600216893
+  },
+  {
+    "fact_id_a": 820,
+    "fact_id_b": 715,
+    "similarity": 0.8311591371315972
+  },
+  {
+    "fact_id_a": 821,
+    "fact_id_b": 715,
+    "similarity": 0.9206648297978027
+  },
+  {
+    "fact_id_a": 821,
+    "fact_id_b": 716,
+    "similarity": 0.8703084531482405
+  },
+  {
+    "fact_id_a": 821,
+    "fact_id_b": 758,
+    "similarity": 0.84507549334965
+  },
+  {
+    "fact_id_a": 822,
+    "fact_id_b": 715,
+    "similarity": 0.895049957604665
+  },
+  {
+    "fact_id_a": 822,
+    "fact_id_b": 716,
+    "similarity": 0.848573176126039
+  },
+  {
+    "fact_id_a": 822,
+    "fact_id_b": 758,
+    "similarity": 0.8206630284631269
+  },
+  {
+    "fact_id_a": 823,
+    "fact_id_b": 296,
+    "similarity": 0.8774081845717977
+  },
+  {
+    "fact_id_a": 823,
+    "fact_id_b": 298,
+    "similarity": 0.8598160133001634
+  },
+  {
+    "fact_id_a": 823,
+    "fact_id_b": 268,
+    "similarity": 0.8256009518880564
+  },
+  {
+    "fact_id_a": 824,
+    "fact_id_b": 296,
+    "similarity": 0.8581328699430547
+  },
+  {
+    "fact_id_a": 824,
+    "fact_id_b": 298,
+    "similarity": 0.8458079696586864
+  },
+  {
+    "fact_id_a": 824,
+    "fact_id_b": 268,
+    "similarity": 0.8175166633088575
+  },
+  {
+    "fact_id_a": 825,
+    "fact_id_b": 296,
+    "similarity": 0.8594078201493816
+  },
+  {
+    "fact_id_a": 825,
+    "fact_id_b": 298,
+    "similarity": 0.8495744221499865
+  },
+  {
+    "fact_id_a": 825,
+    "fact_id_b": 268,
+    "similarity": 0.8152080160773638
+  },
+  {
+    "fact_id_a": 826,
+    "fact_id_b": 785,
+    "similarity": 0.837570019951193
+  },
+  {
+    "fact_id_a": 826,
+    "fact_id_b": 739,
+    "similarity": 0.8273946477300751
+  },
+  {
+    "fact_id_a": 826,
+    "fact_id_b": 716,
+    "similarity": 0.8248532857869139
+  },
+  {
+    "fact_id_a": 827,
+    "fact_id_b": 785,
+    "similarity": 0.8240342601298041
+  },
+  {
+    "fact_id_a": 827,
+    "fact_id_b": 716,
+    "similarity": 0.8208594410695607
+  },
+  {
+    "fact_id_a": 827,
+    "fact_id_b": 739,
+    "similarity": 0.8085511836826808
+  },
+  {
+    "fact_id_a": 828,
+    "fact_id_b": 785,
+    "similarity": 0.8102596445988219
+  },
+  {
+    "fact_id_a": 828,
+    "fact_id_b": 716,
+    "similarity": 0.8102373431437824
+  },
+  {
+    "fact_id_a": 828,
+    "fact_id_b": 787,
+    "similarity": 0.7902022150327415
+  },
+  {
+    "fact_id_a": 829,
+    "fact_id_b": 787,
+    "similarity": 0.8294650901806904
+  },
+  {
+    "fact_id_a": 829,
+    "fact_id_b": 785,
+    "similarity": 0.8291569707283765
+  },
+  {
+    "fact_id_a": 829,
+    "fact_id_b": 776,
+    "similarity": 0.8124579065942505
+  },
+  {
+    "fact_id_a": 830,
+    "fact_id_b": 716,
+    "similarity": 0.8081493446324777
+  },
+  {
+    "fact_id_a": 830,
+    "fact_id_b": 785,
+    "similarity": 0.8055785399004334
+  },
+  {
+    "fact_id_a": 830,
+    "fact_id_b": 295,
+    "similarity": 0.8055777128557761
+  },
+  {
+    "fact_id_a": 831,
+    "fact_id_b": 295,
+    "similarity": 0.8136430637720804
+  },
+  {
+    "fact_id_a": 831,
+    "fact_id_b": 785,
+    "similarity": 0.8026349263121267
+  },
+  {
+    "fact_id_a": 832,
+    "fact_id_b": 716,
+    "similarity": 0.9578259460010135
+  },
+  {
+    "fact_id_a": 832,
+    "fact_id_b": 715,
+    "similarity": 0.8837290204634773
+  },
+  {
+    "fact_id_a": 832,
+    "fact_id_b": 739,
+    "similarity": 0.8499015426841715
+  },
+  {
+    "fact_id_a": 833,
+    "fact_id_b": 716,
+    "similarity": 0.9431299708037586
+  },
+  {
+    "fact_id_a": 833,
+    "fact_id_b": 715,
+    "similarity": 0.8538666852986051
+  },
+  {
+    "fact_id_a": 833,
+    "fact_id_b": 739,
+    "similarity": 0.8345117336105675
+  },
+  {
+    "fact_id_a": 834,
+    "fact_id_b": 715,
+    "similarity": 0.9300736309956261
+  },
+  {
+    "fact_id_a": 834,
+    "fact_id_b": 716,
+    "similarity": 0.894150022327141
+  },
+  {
+    "fact_id_a": 834,
+    "fact_id_b": 758,
+    "similarity": 0.837479555251646
+  },
+  {
+    "fact_id_a": 835,
+    "fact_id_b": 715,
+    "similarity": 0.9078588461037378
+  },
+  {
+    "fact_id_a": 835,
+    "fact_id_b": 716,
+    "similarity": 0.8825186708940448
+  },
+  {
+    "fact_id_a": 835,
+    "fact_id_b": 758,
+    "similarity": 0.8168949403649594
+  },
+  {
+    "fact_id_a": 836,
+    "fact_id_b": 716,
+    "similarity": 0.9290396648593401
+  },
+  {
+    "fact_id_a": 836,
+    "fact_id_b": 715,
+    "similarity": 0.89047734239464
+  },
+  {
+    "fact_id_a": 837,
+    "fact_id_b": 716,
+    "similarity": 0.9124875547115134
+  },
+  {
+    "fact_id_a": 837,
+    "fact_id_b": 715,
+    "similarity": 0.8615274974466962
+  },
+  {
+    "fact_id_a": 837,
+    "fact_id_b": 717,
+    "similarity": 0.8490911745476976
+  },
+  {
+    "fact_id_a": 838,
+    "fact_id_b": 716,
+    "similarity": 0.9329404650144855
+  },
+  {
+    "fact_id_a": 838,
+    "fact_id_b": 739,
+    "similarity": 0.8534127405769982
+  },
+  {
+    "fact_id_a": 838,
+    "fact_id_b": 715,
+    "similarity": 0.8532744585275476
+  },
+  {
+    "fact_id_a": 839,
+    "fact_id_b": 716,
+    "similarity": 0.9217752986597474
+  },
+  {
+    "fact_id_a": 839,
+    "fact_id_b": 739,
+    "similarity": 0.8354500489213107
+  },
+  {
+    "fact_id_a": 839,
+    "fact_id_b": 715,
+    "similarity": 0.834185756738464
+  },
+  {
+    "fact_id_a": 840,
+    "fact_id_b": 715,
+    "similarity": 0.9018702232853402
+  },
+  {
+    "fact_id_a": 840,
+    "fact_id_b": 716,
+    "similarity": 0.869096102537227
+  },
+  {
+    "fact_id_a": 840,
+    "fact_id_b": 758,
+    "similarity": 0.8318612278315103
+  },
+  {
+    "fact_id_a": 841,
+    "fact_id_b": 715,
+    "similarity": 0.8815126258409082
+  },
+  {
+    "fact_id_a": 841,
+    "fact_id_b": 716,
+    "similarity": 0.8568455285301857
+  },
+  {
+    "fact_id_a": 841,
+    "fact_id_b": 758,
+    "similarity": 0.8149709565059968
+  },
+  {
+    "fact_id_a": 842,
+    "fact_id_b": 716,
+    "similarity": 0.9055949535558206
+  },
+  {
+    "fact_id_a": 842,
+    "fact_id_b": 715,
+    "similarity": 0.8559635081204405
+  },
+  {
+    "fact_id_a": 842,
+    "fact_id_b": 717,
+    "similarity": 0.8432530101004064
+  },
+  {
+    "fact_id_a": 843,
+    "fact_id_b": 716,
+    "similarity": 0.896127212111578
+  },
+  {
+    "fact_id_a": 843,
+    "fact_id_b": 715,
+    "similarity": 0.8346256984443319
+  },
+  {
+    "fact_id_a": 843,
+    "fact_id_b": 717,
+    "similarity": 0.8339981042585082
+  },
+  {
+    "fact_id_a": 851,
+    "fact_id_b": 296,
+    "similarity": 0.757601357260486
+  },
+  {
+    "fact_id_a": 882,
+    "fact_id_b": 758,
+    "similarity": 0.8016527035689108
+  },
+  {
+    "fact_id_a": 882,
+    "fact_id_b": 785,
+    "similarity": 0.7898714295288186
+  },
+  {
+    "fact_id_a": 883,
+    "fact_id_b": 717,
+    "similarity": 0.813038158504351
+  },
+  {
+    "fact_id_a": 883,
+    "fact_id_b": 785,
+    "similarity": 0.8034588603982573
+  },
+  {
+    "fact_id_a": 884,
+    "fact_id_b": 785,
+    "similarity": 0.834220104324402
+  },
+  {
+    "fact_id_a": 884,
+    "fact_id_b": 739,
+    "similarity": 0.8246076175931741
+  },
+  {
+    "fact_id_a": 884,
+    "fact_id_b": 716,
+    "similarity": 0.8198690979428608
+  },
+  {
+    "fact_id_a": 885,
+    "fact_id_b": 785,
+    "similarity": 0.835350180671981
+  },
+  {
+    "fact_id_a": 885,
+    "fact_id_b": 716,
+    "similarity": 0.8322685232149115
+  },
+  {
+    "fact_id_a": 885,
+    "fact_id_b": 776,
+    "similarity": 0.8184425264589094
+  },
+  {
+    "fact_id_a": 886,
+    "fact_id_b": 785,
+    "similarity": 0.8258024215379354
+  },
+  {
+    "fact_id_a": 886,
+    "fact_id_b": 716,
+    "similarity": 0.820039483950999
+  },
+  {
+    "fact_id_a": 886,
+    "fact_id_b": 787,
+    "similarity": 0.804298829887499
+  },
+  {
+    "fact_id_a": 887,
+    "fact_id_b": 758,
+    "similarity": 0.7846277992395763
+  },
+  {
+    "fact_id_a": 887,
+    "fact_id_b": 290,
+    "similarity": 0.7814408563188814
+  },
+  {
+    "fact_id_a": 888,
+    "fact_id_b": 716,
+    "similarity": 0.8040203830556102
+  },
+  {
+    "fact_id_a": 888,
+    "fact_id_b": 717,
+    "similarity": 0.8019108632193337
+  },
+  {
+    "fact_id_a": 888,
+    "fact_id_b": 295,
+    "similarity": 0.79765130037132
+  },
+  {
+    "fact_id_a": 889,
+    "fact_id_b": 716,
+    "similarity": 0.8177383900867181
+  },
+  {
+    "fact_id_a": 889,
+    "fact_id_b": 785,
+    "similarity": 0.8122669302761658
+  },
+  {
+    "fact_id_a": 889,
+    "fact_id_b": 739,
+    "similarity": 0.8037870924658586
+  },
+  {
+    "fact_id_a": 890,
+    "fact_id_b": 716,
+    "similarity": 0.8104996943661679
+  },
+  {
+    "fact_id_a": 890,
+    "fact_id_b": 785,
+    "similarity": 0.8047042543856996
+  },
+  {
+    "fact_id_a": 890,
+    "fact_id_b": 295,
+    "similarity": 0.8004845911116462
+  },
+  {
+    "fact_id_a": 891,
+    "fact_id_b": 295,
+    "similarity": 0.8014567363174512
+  },
+  {
+    "fact_id_a": 891,
+    "fact_id_b": 716,
+    "similarity": 0.801351742948261
+  },
+  {
+    "fact_id_a": 891,
+    "fact_id_b": 785,
+    "similarity": 0.79703915705727
+  },
+  {
+    "fact_id_a": 893,
+    "fact_id_b": 787,
+    "similarity": 0.8072245027497988
+  },
+  {
+    "fact_id_a": 893,
+    "fact_id_b": 295,
+    "similarity": 0.8055097035004358
+  },
+  {
+    "fact_id_a": 893,
+    "fact_id_b": 785,
+    "similarity": 0.8014161219693621
+  },
+  {
+    "fact_id_a": 894,
+    "fact_id_b": 785,
+    "similarity": 0.8238749081690898
+  },
+  {
+    "fact_id_a": 894,
+    "fact_id_b": 787,
+    "similarity": 0.8235345547526537
+  },
+  {
+    "fact_id_a": 894,
+    "fact_id_b": 295,
+    "similarity": 0.8122702960562986
+  },
+  {
+    "fact_id_a": 895,
+    "fact_id_b": 295,
+    "similarity": 0.8078449427241517
+  },
+  {
+    "fact_id_a": 895,
+    "fact_id_b": 716,
+    "similarity": 0.8051069078638153
+  },
+  {
+    "fact_id_a": 895,
+    "fact_id_b": 785,
+    "similarity": 0.8017571892499221
+  },
+  {
+    "fact_id_a": 896,
+    "fact_id_b": 295,
+    "similarity": 0.8123035379044673
+  },
+  {
+    "fact_id_a": 896,
+    "fact_id_b": 260,
+    "similarity": 0.8061334056631788
+  },
+  {
+    "fact_id_a": 897,
+    "fact_id_b": 298,
+    "similarity": 0.8559560229975508
+  },
+  {
+    "fact_id_a": 898,
+    "fact_id_b": 296,
+    "similarity": 0.8649761033626849
+  },
+  {
+    "fact_id_a": 898,
+    "fact_id_b": 268,
+    "similarity": 0.8245583902354214
+  },
+  {
+    "fact_id_a": 899,
+    "fact_id_b": 296,
+    "similarity": 0.8673939505856263
+  },
+  {
+    "fact_id_a": 899,
+    "fact_id_b": 298,
+    "similarity": 0.846329170551825
+  },
+  {
+    "fact_id_a": 899,
+    "fact_id_b": 268,
+    "similarity": 0.8249659658813298
+  },
+  {
+    "fact_id_a": 900,
+    "fact_id_b": 296,
+    "similarity": 0.8531703171257726
+  },
+  {
+    "fact_id_a": 900,
+    "fact_id_b": 298,
+    "similarity": 0.8361774461733684
+  },
+  {
+    "fact_id_a": 900,
+    "fact_id_b": 268,
+    "similarity": 0.8168125589417704
+  },
+  {
+    "fact_id_a": 901,
+    "fact_id_b": 296,
+    "similarity": 0.8486214576732367
+  },
+  {
+    "fact_id_a": 901,
+    "fact_id_b": 298,
+    "similarity": 0.8342223742187472
+  },
+  {
+    "fact_id_a": 901,
+    "fact_id_b": 268,
+    "similarity": 0.8103300912156621
+  },
+  {
+    "fact_id_a": 902,
+    "fact_id_b": 296,
+    "similarity": 0.8581328699430547
+  },
+  {
+    "fact_id_a": 902,
+    "fact_id_b": 298,
+    "similarity": 0.8458079696586864
+  },
+  {
+    "fact_id_a": 902,
+    "fact_id_b": 268,
+    "similarity": 0.8175166633088575
+  },
+  {
+    "fact_id_a": 903,
+    "fact_id_b": 296,
+    "similarity": 0.8594078201493816
+  },
+  {
+    "fact_id_a": 903,
+    "fact_id_b": 298,
+    "similarity": 0.8495744221499865
+  },
+  {
+    "fact_id_a": 903,
+    "fact_id_b": 268,
+    "similarity": 0.8152080160773638
+  },
+  {
+    "fact_id_a": 904,
+    "fact_id_b": 290,
+    "similarity": 0.7953053502954589
+  },
+  {
+    "fact_id_a": 904,
+    "fact_id_b": 758,
+    "similarity": 0.7925177635608975
+  },
+  {
+    "fact_id_a": 904,
+    "fact_id_b": 296,
+    "similarity": 0.7882229589755142
+  },
+  {
+    "fact_id_a": 905,
+    "fact_id_b": 717,
+    "similarity": 0.8011136389056149
+  },
+  {
+    "fact_id_a": 905,
+    "fact_id_b": 785,
+    "similarity": 0.7971361743817031
+  },
+  {
+    "fact_id_a": 905,
+    "fact_id_b": 716,
+    "similarity": 0.7960917041193735
+  },
+  {
+    "fact_id_a": 906,
+    "fact_id_b": 785,
+    "similarity": 0.8265886960697774
+  },
+  {
+    "fact_id_a": 906,
+    "fact_id_b": 716,
+    "similarity": 0.8244303697100869
+  },
+  {
+    "fact_id_a": 906,
+    "fact_id_b": 739,
+    "similarity": 0.8229762336683507
+  },
+  {
+    "fact_id_a": 907,
+    "fact_id_b": 716,
+    "similarity": 0.8079607359682822
+  },
+  {
+    "fact_id_a": 907,
+    "fact_id_b": 785,
+    "similarity": 0.8044445658074422
+  },
+  {
+    "fact_id_a": 907,
+    "fact_id_b": 739,
+    "similarity": 0.8012634775802168
+  },
+  {
+    "fact_id_a": 908,
+    "fact_id_b": 716,
+    "similarity": 0.8027326868556084
+  },
+  {
+    "fact_id_a": 908,
+    "fact_id_b": 785,
+    "similarity": 0.7942182206641843
+  },
+  {
+    "fact_id_a": 908,
+    "fact_id_b": 787,
+    "similarity": 0.7854387079666205
+  },
+  {
+    "fact_id_a": 909,
+    "fact_id_b": 758,
+    "similarity": 0.7716784387993728
+  },
+  {
+    "fact_id_a": 910,
+    "fact_id_b": 785,
+    "similarity": 0.78852095317199
+  },
+  {
+    "fact_id_a": 911,
+    "fact_id_b": 278,
+    "similarity": 0.8150338569161347
+  },
+  {
+    "fact_id_a": 911,
+    "fact_id_b": 785,
+    "similarity": 0.8050520675893982
+  },
+  {
+    "fact_id_a": 911,
+    "fact_id_b": 752,
+    "similarity": 0.7958195283505569
+  },
+  {
+    "fact_id_a": 912,
+    "fact_id_b": 785,
+    "similarity": 0.7973152740231035
+  },
+  {
+    "fact_id_a": 912,
+    "fact_id_b": 776,
+    "similarity": 0.7894984988051494
+  },
+  {
+    "fact_id_a": 913,
+    "fact_id_b": 278,
+    "similarity": 0.8156571994439296
+  },
+  {
+    "fact_id_a": 913,
+    "fact_id_b": 785,
+    "similarity": 0.7923842341167264
+  },
+  {
+    "fact_id_a": 914,
+    "fact_id_b": 290,
+    "similarity": 0.7981862978960945
+  },
+  {
+    "fact_id_a": 914,
+    "fact_id_b": 758,
+    "similarity": 0.7937173833288149
+  },
+  {
+    "fact_id_a": 915,
+    "fact_id_b": 717,
+    "similarity": 0.807888067557099
+  },
+  {
+    "fact_id_a": 915,
+    "fact_id_b": 785,
+    "similarity": 0.8050231248921279
+  },
+  {
+    "fact_id_a": 916,
+    "fact_id_b": 785,
+    "similarity": 0.8301633658498885
+  },
+  {
+    "fact_id_a": 916,
+    "fact_id_b": 716,
+    "similarity": 0.8280021089431054
+  },
+  {
+    "fact_id_a": 916,
+    "fact_id_b": 739,
+    "similarity": 0.8171267838481611
+  },
+  {
+    "fact_id_a": 917,
+    "fact_id_b": 785,
+    "similarity": 0.8101456491331993
+  },
+  {
+    "fact_id_a": 917,
+    "fact_id_b": 716,
+    "similarity": 0.8090643322518508
+  },
+  {
+    "fact_id_a": 917,
+    "fact_id_b": 787,
+    "similarity": 0.7956590727302648
+  },
+  {
+    "fact_id_a": 918,
+    "fact_id_b": 716,
+    "similarity": 0.8035267971499929
+  },
+  {
+    "fact_id_a": 918,
+    "fact_id_b": 785,
+    "similarity": 0.8017301582962865
+  },
+  {
+    "fact_id_a": 918,
+    "fact_id_b": 348,
+    "similarity": 0.7891553157188123
+  },
+  {
+    "fact_id_a": 919,
+    "fact_id_b": 758,
+    "similarity": 0.8015139055270316
+  },
+  {
+    "fact_id_a": 919,
+    "fact_id_b": 785,
+    "similarity": 0.7918766338077349
+  },
+  {
+    "fact_id_a": 920,
+    "fact_id_b": 717,
+    "similarity": 0.8116026548224942
+  },
+  {
+    "fact_id_a": 920,
+    "fact_id_b": 785,
+    "similarity": 0.8061189699042555
+  },
+  {
+    "fact_id_a": 921,
+    "fact_id_b": 785,
+    "similarity": 0.8351896760842998
+  },
+  {
+    "fact_id_a": 921,
+    "fact_id_b": 739,
+    "similarity": 0.8272314580129961
+  },
+  {
+    "fact_id_a": 921,
+    "fact_id_b": 716,
+    "similarity": 0.8245063035915439
+  },
+  {
+    "fact_id_a": 922,
+    "fact_id_b": 785,
+    "similarity": 0.8218393363561461
+  },
+  {
+    "fact_id_a": 922,
+    "fact_id_b": 716,
+    "similarity": 0.8204779749255497
+  },
+  {
+    "fact_id_a": 922,
+    "fact_id_b": 739,
+    "similarity": 0.808592019998431
+  },
+  {
+    "fact_id_a": 923,
+    "fact_id_b": 716,
+    "similarity": 0.8123034297742463
+  },
+  {
+    "fact_id_a": 923,
+    "fact_id_b": 785,
+    "similarity": 0.8122483593110778
+  },
+  {
+    "fact_id_a": 923,
+    "fact_id_b": 787,
+    "similarity": 0.7930628553546757
+  },
+  {
+    "fact_id_a": 924,
+    "fact_id_b": 268,
+    "similarity": 0.7792110199988026
+  },
+  {
+    "fact_id_a": 924,
+    "fact_id_b": 296,
+    "similarity": 0.7711573854351965
+  },
+  {
+    "fact_id_a": 925,
+    "fact_id_b": 295,
+    "similarity": 0.8029961615283279
+  },
+  {
+    "fact_id_a": 925,
+    "fact_id_b": 716,
+    "similarity": 0.7858203950903047
+  },
+  {
+    "fact_id_a": 925,
+    "fact_id_b": 717,
+    "similarity": 0.7823363103941943
+  },
+  {
+    "fact_id_a": 926,
+    "fact_id_b": 295,
+    "similarity": 0.8041448204376426
+  },
+  {
+    "fact_id_a": 926,
+    "fact_id_b": 716,
+    "similarity": 0.7974462288181069
+  },
+  {
+    "fact_id_a": 926,
+    "fact_id_b": 747,
+    "similarity": 0.7892803674075797
+  },
+  {
+    "fact_id_a": 927,
+    "fact_id_b": 296,
+    "similarity": 0.8452243077176835
+  },
+  {
+    "fact_id_a": 927,
+    "fact_id_b": 298,
+    "similarity": 0.8119584027785058
+  },
+  {
+    "fact_id_a": 927,
+    "fact_id_b": 758,
+    "similarity": 0.7638378402328524
+  },
+  {
+    "fact_id_a": 928,
+    "fact_id_b": 296,
+    "similarity": 0.8330355774809293
+  },
+  {
+    "fact_id_a": 928,
+    "fact_id_b": 298,
+    "similarity": 0.8268359325082669
+  },
+  {
+    "fact_id_a": 928,
+    "fact_id_b": 717,
+    "similarity": 0.8045898244793438
+  },
+  {
+    "fact_id_a": 929,
+    "fact_id_b": 296,
+    "similarity": 0.828448725070126
+  },
+  {
+    "fact_id_a": 929,
+    "fact_id_b": 298,
+    "similarity": 0.8013453468610283
+  },
+  {
+    "fact_id_a": 929,
+    "fact_id_b": 739,
+    "similarity": 0.7872875323357541
+  },
+  {
+    "fact_id_a": 930,
+    "fact_id_b": 296,
+    "similarity": 0.7882400632309029
+  },
+  {
+    "fact_id_a": 930,
+    "fact_id_b": 758,
+    "similarity": 0.7727818039933391
+  },
+  {
+    "fact_id_a": 930,
+    "fact_id_b": 298,
+    "similarity": 0.7609120642805569
+  },
+  {
+    "fact_id_a": 931,
+    "fact_id_b": 296,
+    "similarity": 0.7816978521904997
+  },
+  {
+    "fact_id_a": 931,
+    "fact_id_b": 298,
+    "similarity": 0.7796574188046799
+  },
+  {
+    "fact_id_a": 931,
+    "fact_id_b": 717,
+    "similarity": 0.776904577320321
+  },
+  {
+    "fact_id_a": 932,
+    "fact_id_b": 739,
+    "similarity": 0.7976843459162268
+  },
+  {
+    "fact_id_a": 932,
+    "fact_id_b": 716,
+    "similarity": 0.7817072648696565
+  },
+  {
+    "fact_id_a": 932,
+    "fact_id_b": 785,
+    "similarity": 0.7787555448648861
+  },
+  {
+    "fact_id_a": 933,
+    "fact_id_b": 290,
+    "similarity": 0.7595843132168838
+  },
+  {
+    "fact_id_a": 933,
+    "fact_id_b": 307,
+    "similarity": 0.7542354171114765
+  },
+  {
+    "fact_id_a": 934,
+    "fact_id_b": 717,
+    "similarity": 0.76969804486742
+  },
+  {
+    "fact_id_a": 934,
+    "fact_id_b": 291,
+    "similarity": 0.7539116027840367
+  },
+  {
+    "fact_id_a": 934,
+    "fact_id_b": 785,
+    "similarity": 0.7527498222929802
+  },
+  {
+    "fact_id_a": 935,
+    "fact_id_b": 739,
+    "similarity": 0.7752241980924305
+  },
+  {
+    "fact_id_a": 935,
+    "fact_id_b": 716,
+    "similarity": 0.7752098386405217
+  },
+  {
+    "fact_id_a": 935,
+    "fact_id_b": 785,
+    "similarity": 0.7748011277126826
+  },
+  {
+    "fact_id_a": 945,
+    "fact_id_b": 716,
+    "similarity": 0.7501135886417392
+  },
+  {
+    "fact_id_a": 946,
+    "fact_id_b": 716,
+    "similarity": 0.7501135886417392
+  },
+  {
+    "fact_id_a": 962,
+    "fact_id_b": 758,
+    "similarity": 0.7856062636237905
+  },
+  {
+    "fact_id_a": 962,
+    "fact_id_b": 726,
+    "similarity": 0.7804258086251522
+  },
+  {
+    "fact_id_a": 963,
+    "fact_id_b": 732,
+    "similarity": 0.8074467694199037
+  },
+  {
+    "fact_id_a": 963,
+    "fact_id_b": 750,
+    "similarity": 0.8037747874353103
+  },
+  {
+    "fact_id_a": 963,
+    "fact_id_b": 776,
+    "similarity": 0.7974247090485748
+  },
+  {
+    "fact_id_a": 964,
+    "fact_id_b": 726,
+    "similarity": 0.7832107835813387
+  },
+  {
+    "fact_id_a": 964,
+    "fact_id_b": 758,
+    "similarity": 0.7827444309170395
+  },
+  {
+    "fact_id_a": 965,
+    "fact_id_b": 732,
+    "similarity": 0.8026995459758902
+  },
+  {
+    "fact_id_a": 965,
+    "fact_id_b": 750,
+    "similarity": 0.7972678937770584
+  },
+  {
+    "fact_id_a": 965,
+    "fact_id_b": 731,
+    "similarity": 0.7877967009612836
+  },
+  {
+    "fact_id_a": 966,
+    "fact_id_b": 726,
+    "similarity": 0.8053994221394077
+  },
+  {
+    "fact_id_a": 966,
+    "fact_id_b": 758,
+    "similarity": 0.7964205366703438
+  },
+  {
+    "fact_id_a": 966,
+    "fact_id_b": 725,
+    "similarity": 0.7919590194791671
+  },
+  {
+    "fact_id_a": 967,
+    "fact_id_b": 785,
+    "similarity": 0.8088184268337852
+  },
+  {
+    "fact_id_a": 967,
+    "fact_id_b": 732,
+    "similarity": 0.8053143838187418
+  },
+  {
+    "fact_id_a": 967,
+    "fact_id_b": 776,
+    "similarity": 0.8040953768080629
+  },
+  {
+    "fact_id_a": 968,
+    "fact_id_b": 768,
+    "similarity": 0.8231098820751215
+  },
+  {
+    "fact_id_a": 968,
+    "fact_id_b": 726,
+    "similarity": 0.8138765019883234
+  },
+  {
+    "fact_id_a": 968,
+    "fact_id_b": 772,
+    "similarity": 0.8127664400974691
+  },
+  {
+    "fact_id_a": 969,
+    "fact_id_b": 747,
+    "similarity": 0.8195739532444304
+  },
+  {
+    "fact_id_a": 969,
+    "fact_id_b": 748,
+    "similarity": 0.8179065424516511
+  },
+  {
+    "fact_id_a": 969,
+    "fact_id_b": 750,
+    "similarity": 0.8124115416663298
+  },
+  {
+    "fact_id_a": 970,
+    "fact_id_b": 726,
+    "similarity": 0.807287125149455
+  },
+  {
+    "fact_id_a": 970,
+    "fact_id_b": 758,
+    "similarity": 0.8063994620781544
+  },
+  {
+    "fact_id_a": 970,
+    "fact_id_b": 772,
+    "similarity": 0.7977749376541053
+  },
+  {
+    "fact_id_a": 971,
+    "fact_id_b": 750,
+    "similarity": 0.8318886353982939
+  },
+  {
+    "fact_id_a": 971,
+    "fact_id_b": 732,
+    "similarity": 0.8296294235432241
+  },
+  {
+    "fact_id_a": 971,
+    "fact_id_b": 751,
+    "similarity": 0.8252581819254668
+  },
+  {
+    "fact_id_a": 972,
+    "fact_id_b": 726,
+    "similarity": 0.828610630256983
+  },
+  {
+    "fact_id_a": 972,
+    "fact_id_b": 725,
+    "similarity": 0.8184420352111507
+  },
+  {
+    "fact_id_a": 973,
+    "fact_id_b": 732,
+    "similarity": 0.8449821947805729
+  },
+  {
+    "fact_id_a": 973,
+    "fact_id_b": 751,
+    "similarity": 0.8379123220154134
+  },
+  {
+    "fact_id_a": 973,
+    "fact_id_b": 731,
+    "similarity": 0.8357127872635759
+  },
+  {
+    "fact_id_a": 974,
+    "fact_id_b": 726,
+    "similarity": 0.81876542624029
+  },
+  {
+    "fact_id_a": 974,
+    "fact_id_b": 725,
+    "similarity": 0.811454880159338
+  },
+  {
+    "fact_id_a": 974,
+    "fact_id_b": 758,
+    "similarity": 0.8020091286562417
+  },
+  {
+    "fact_id_a": 975,
+    "fact_id_b": 732,
+    "similarity": 0.828724001925125
+  },
+  {
+    "fact_id_a": 975,
+    "fact_id_b": 731,
+    "similarity": 0.8212552989095536
+  },
+  {
+    "fact_id_a": 975,
+    "fact_id_b": 751,
+    "similarity": 0.8113051290736948
+  },
+  {
+    "fact_id_a": 976,
+    "fact_id_b": 758,
+    "similarity": 0.8454866668346114
+  },
+  {
+    "fact_id_a": 976,
+    "fact_id_b": 715,
+    "similarity": 0.8321680557192622
+  },
+  {
+    "fact_id_a": 976,
+    "fact_id_b": 763,
+    "similarity": 0.8223420142518227
+  },
+  {
+    "fact_id_a": 977,
+    "fact_id_b": 739,
+    "similarity": 0.8507764527019783
+  },
+  {
+    "fact_id_a": 977,
+    "fact_id_b": 716,
+    "similarity": 0.849182933748348
+  },
+  {
+    "fact_id_a": 977,
+    "fact_id_b": 751,
+    "similarity": 0.8371734848488983
+  },
+  {
+    "fact_id_a": 978,
+    "fact_id_b": 758,
+    "similarity": 0.8353132084933457
+  },
+  {
+    "fact_id_a": 978,
+    "fact_id_b": 715,
+    "similarity": 0.8250152024035508
+  },
+  {
+    "fact_id_a": 978,
+    "fact_id_b": 763,
+    "similarity": 0.8043370364761553
+  },
+  {
+    "fact_id_a": 979,
+    "fact_id_b": 716,
+    "similarity": 0.8456965058393923
+  },
+  {
+    "fact_id_a": 979,
+    "fact_id_b": 739,
+    "similarity": 0.8453749690904184
+  },
+  {
+    "fact_id_a": 979,
+    "fact_id_b": 751,
+    "similarity": 0.828719985903377
+  },
+  {
+    "fact_id_a": 980,
+    "fact_id_b": 715,
+    "similarity": 0.8393375776907811
+  },
+  {
+    "fact_id_a": 980,
+    "fact_id_b": 758,
+    "similarity": 0.8304790450369133
+  },
+  {
+    "fact_id_a": 980,
+    "fact_id_b": 763,
+    "similarity": 0.8022658798826094
+  },
+  {
+    "fact_id_a": 981,
+    "fact_id_b": 716,
+    "similarity": 0.8741884138977953
+  },
+  {
+    "fact_id_a": 981,
+    "fact_id_b": 739,
+    "similarity": 0.844401051401264
+  },
+  {
+    "fact_id_a": 981,
+    "fact_id_b": 743,
+    "similarity": 0.8206452254425051
+  },
+  {
+    "fact_id_a": 982,
+    "fact_id_b": 758,
+    "similarity": 0.7937132522461299
+  },
+  {
+    "fact_id_a": 982,
+    "fact_id_b": 771,
+    "similarity": 0.787225318279902
+  },
+  {
+    "fact_id_a": 982,
+    "fact_id_b": 773,
+    "similarity": 0.7822193976366412
+  },
+  {
+    "fact_id_a": 983,
+    "fact_id_b": 785,
+    "similarity": 0.8152566507513659
+  },
+  {
+    "fact_id_a": 983,
+    "fact_id_b": 750,
+    "similarity": 0.8091995638659898
+  },
+  {
+    "fact_id_a": 983,
+    "fact_id_b": 751,
+    "similarity": 0.8089136017127789
+  },
+  {
+    "fact_id_a": 984,
+    "fact_id_b": 758,
+    "similarity": 0.8117319858510749
+  },
+  {
+    "fact_id_a": 985,
+    "fact_id_b": 739,
+    "similarity": 0.8312705681102596
+  },
+  {
+    "fact_id_a": 985,
+    "fact_id_b": 744,
+    "similarity": 0.819587571657818
+  },
+  {
+    "fact_id_a": 985,
+    "fact_id_b": 746,
+    "similarity": 0.8175659082328397
+  },
+  {
+    "fact_id_a": 986,
+    "fact_id_b": 758,
+    "similarity": 0.8267878859158024
+  },
+  {
+    "fact_id_a": 986,
+    "fact_id_b": 764,
+    "similarity": 0.8131346418766444
+  },
+  {
+    "fact_id_a": 986,
+    "fact_id_b": 766,
+    "similarity": 0.8116362796545472
+  },
+  {
+    "fact_id_a": 987,
+    "fact_id_b": 739,
+    "similarity": 0.8360208355505593
+  },
+  {
+    "fact_id_a": 987,
+    "fact_id_b": 721,
+    "similarity": 0.8263390822839308
+  },
+  {
+    "fact_id_a": 987,
+    "fact_id_b": 746,
+    "similarity": 0.8253604076152028
+  },
+  {
+    "fact_id_a": 988,
+    "fact_id_b": 764,
+    "similarity": 0.8014225401966711
+  },
+  {
+    "fact_id_a": 988,
+    "fact_id_b": 763,
+    "similarity": 0.7975360475445809
+  },
+  {
+    "fact_id_a": 988,
+    "fact_id_b": 758,
+    "similarity": 0.7835255850572116
+  },
+  {
+    "fact_id_a": 989,
+    "fact_id_b": 743,
+    "similarity": 0.8133648431001036
+  },
+  {
+    "fact_id_a": 989,
+    "fact_id_b": 721,
+    "similarity": 0.8120004985705523
+  },
+  {
+    "fact_id_a": 989,
+    "fact_id_b": 751,
+    "similarity": 0.8097373785689727
+  },
+  {
+    "fact_id_a": 990,
+    "fact_id_b": 758,
+    "similarity": 0.8251763165277887
+  },
+  {
+    "fact_id_a": 990,
+    "fact_id_b": 715,
+    "similarity": 0.8082814591168694
+  },
+  {
+    "fact_id_a": 990,
+    "fact_id_b": 766,
+    "similarity": 0.7965513360846623
+  },
+  {
+    "fact_id_a": 991,
+    "fact_id_b": 739,
+    "similarity": 0.8293753007365636
+  },
+  {
+    "fact_id_a": 991,
+    "fact_id_b": 716,
+    "similarity": 0.8271953975153102
+  },
+  {
+    "fact_id_a": 991,
+    "fact_id_b": 721,
+    "similarity": 0.8246880605204364
+  },
+  {
+    "fact_id_a": 994,
+    "fact_id_b": 763,
+    "similarity": 0.8013128418485341
+  },
+  {
+    "fact_id_a": 994,
+    "fact_id_b": 764,
+    "similarity": 0.792732355109106
+  },
+  {
+    "fact_id_a": 994,
+    "fact_id_b": 766,
+    "similarity": 0.7925043849727628
+  },
+  {
+    "fact_id_a": 995,
+    "fact_id_b": 743,
+    "similarity": 0.811789358597815
+  },
+  {
+    "fact_id_a": 995,
+    "fact_id_b": 739,
+    "similarity": 0.8061610349361548
+  },
+  {
+    "fact_id_a": 995,
+    "fact_id_b": 746,
+    "similarity": 0.8057609254078784
+  },
+  {
+    "fact_id_a": 998,
+    "fact_id_b": 758,
+    "similarity": 0.8155594868161381
+  },
+  {
+    "fact_id_a": 998,
+    "fact_id_b": 772,
+    "similarity": 0.8115763195423837
+  },
+  {
+    "fact_id_a": 998,
+    "fact_id_b": 768,
+    "similarity": 0.8068265550044555
+  },
+  {
+    "fact_id_a": 999,
+    "fact_id_b": 751,
+    "similarity": 0.831650444761308
+  },
+  {
+    "fact_id_a": 999,
+    "fact_id_b": 747,
+    "similarity": 0.8309657006166008
+  },
+  {
+    "fact_id_a": 999,
+    "fact_id_b": 716,
+    "similarity": 0.8280869221256778
+  },
+  {
+    "fact_id_a": 1000,
+    "fact_id_b": 163,
+    "similarity": 0.8694216370799375
+  },
+  {
+    "fact_id_a": 1001,
+    "fact_id_b": 773,
+    "similarity": 0.8605500332280747
+  },
+  {
+    "fact_id_a": 1001,
+    "fact_id_b": 738,
+    "similarity": 0.854230381114029
+  },
+  {
+    "fact_id_a": 1002,
+    "fact_id_b": 768,
+    "similarity": 0.8303487047469825
+  },
+  {
+    "fact_id_a": 1003,
+    "fact_id_b": 747,
+    "similarity": 0.8525481484709767
+  },
+  {
+    "fact_id_a": 1003,
+    "fact_id_b": 751,
+    "similarity": 0.8494567355517167
+  },
+  {
+    "fact_id_a": 1003,
+    "fact_id_b": 748,
+    "similarity": 0.8337030682406417
+  },
+  {
+    "fact_id_a": 1006,
+    "fact_id_b": 768,
+    "similarity": 0.7949223502703314
+  },
+  {
+    "fact_id_a": 1006,
+    "fact_id_b": 726,
+    "similarity": 0.7869346867690582
+  },
+  {
+    "fact_id_a": 1006,
+    "fact_id_b": 733,
+    "similarity": 0.7851712619875725
+  },
+  {
+    "fact_id_a": 1007,
+    "fact_id_b": 747,
+    "similarity": 0.822724975933302
+  },
+  {
+    "fact_id_a": 1007,
+    "fact_id_b": 751,
+    "similarity": 0.8130454798280282
+  },
+  {
+    "fact_id_a": 1007,
+    "fact_id_b": 748,
+    "similarity": 0.8084682368752071
+  },
+  {
+    "fact_id_a": 1008,
+    "fact_id_b": 733,
+    "similarity": 0.8231843654003981
+  },
+  {
+    "fact_id_a": 1008,
+    "fact_id_b": 772,
+    "similarity": 0.8153936613814333
+  },
+  {
+    "fact_id_a": 1009,
+    "fact_id_b": 747,
+    "similarity": 0.8483389429020991
+  },
+  {
+    "fact_id_a": 1009,
+    "fact_id_b": 751,
+    "similarity": 0.8381342321532198
+  },
+  {
+    "fact_id_a": 1009,
+    "fact_id_b": 748,
+    "similarity": 0.8220310085179693
+  },
+  {
+    "fact_id_a": 1010,
+    "fact_id_b": 291,
+    "similarity": 0.774085051472561
+  },
+  {
+    "fact_id_a": 1010,
+    "fact_id_b": 260,
+    "similarity": 0.7692478864190591
+  },
+  {
+    "fact_id_a": 1011,
+    "fact_id_b": 314,
+    "similarity": 0.790145066484637
+  },
+  {
+    "fact_id_a": 1011,
+    "fact_id_b": 291,
+    "similarity": 0.7717272374662848
+  },
+  {
+    "fact_id_a": 1011,
+    "fact_id_b": 316,
+    "similarity": 0.7612582204162753
+  },
+  {
+    "fact_id_a": 1012,
+    "fact_id_b": 290,
+    "similarity": 0.7877538527864064
+  },
+  {
+    "fact_id_a": 1012,
+    "fact_id_b": 315,
+    "similarity": 0.7848944741335188
+  },
+  {
+    "fact_id_a": 1013,
+    "fact_id_b": 719,
+    "similarity": 0.7715893726999137
+  },
+  {
+    "fact_id_a": 1013,
+    "fact_id_b": 718,
+    "similarity": 0.7571124709042032
+  },
+  {
+    "fact_id_a": 1013,
+    "fact_id_b": 753,
+    "similarity": 0.7513437031264479
+  },
+  {
+    "fact_id_a": 1014,
+    "fact_id_b": 758,
+    "similarity": 0.7827237917449582
+  },
+  {
+    "fact_id_a": 1014,
+    "fact_id_b": 767,
+    "similarity": 0.7821447587918722
+  },
+  {
+    "fact_id_a": 1014,
+    "fact_id_b": 766,
+    "similarity": 0.7677594825474551
+  },
+  {
+    "fact_id_a": 1015,
+    "fact_id_b": 746,
+    "similarity": 0.8116950080925021
+  },
+  {
+    "fact_id_a": 1015,
+    "fact_id_b": 721,
+    "similarity": 0.8090553484531039
+  },
+  {
+    "fact_id_a": 1015,
+    "fact_id_b": 739,
+    "similarity": 0.8042072552139277
+  },
+  {
+    "fact_id_a": 1016,
+    "fact_id_b": 751,
+    "similarity": 0.8171080706790086
+  },
+  {
+    "fact_id_a": 1016,
+    "fact_id_b": 739,
+    "similarity": 0.8117676677675638
+  },
+  {
+    "fact_id_a": 1016,
+    "fact_id_b": 787,
+    "similarity": 0.8115537102314695
+  },
+  {
+    "fact_id_a": 1017,
+    "fact_id_b": 310,
+    "similarity": 0.7703989643021734
+  },
+  {
+    "fact_id_a": 1017,
+    "fact_id_b": 152,
+    "similarity": 0.7683873752535318
+  },
+  {
+    "fact_id_a": 1017,
+    "fact_id_b": 295,
+    "similarity": 0.758883520934605
+  },
+  {
+    "fact_id_a": 1029,
+    "fact_id_b": 728,
+    "similarity": 0.7502633183061929
+  },
+  {
+    "fact_id_a": 1042,
+    "fact_id_b": 775,
+    "similarity": 0.7847018642367946
+  },
+  {
+    "fact_id_a": 1042,
+    "fact_id_b": 677,
+    "similarity": 0.7741106191396239
+  },
+  {
+    "fact_id_a": 1043,
+    "fact_id_b": 716,
+    "similarity": 0.7851675503086907
+  },
+  {
+    "fact_id_a": 1044,
+    "fact_id_b": 716,
+    "similarity": 0.8491826603406801
+  },
+  {
+    "fact_id_a": 1044,
+    "fact_id_b": 739,
+    "similarity": 0.8490519691800502
+  },
+  {
+    "fact_id_a": 1045,
+    "fact_id_b": 715,
+    "similarity": 0.8848572524475542
+  },
+  {
+    "fact_id_a": 1045,
+    "fact_id_b": 739,
+    "similarity": 0.8565689059780192
+  },
+  {
+    "fact_id_a": 1046,
+    "fact_id_b": 716,
+    "similarity": 0.9502393848042756
+  },
+  {
+    "fact_id_a": 1046,
+    "fact_id_b": 715,
+    "similarity": 0.8571985077232674
+  },
+  {
+    "fact_id_a": 1046,
+    "fact_id_b": 739,
+    "similarity": 0.8399898931965535
+  },
+  {
+    "fact_id_a": 1047,
+    "fact_id_b": 716,
+    "similarity": 0.9451992236606144
+  },
+  {
+    "fact_id_a": 1047,
+    "fact_id_b": 715,
+    "similarity": 0.8558725827459753
+  },
+  {
+    "fact_id_a": 1047,
+    "fact_id_b": 739,
+    "similarity": 0.8517405867564531
+  },
+  {
+    "fact_id_a": 1048,
+    "fact_id_b": 716,
+    "similarity": 0.9254767444226711
+  },
+  {
+    "fact_id_a": 1048,
+    "fact_id_b": 739,
+    "similarity": 0.8313769600216893
+  },
+  {
+    "fact_id_a": 1048,
+    "fact_id_b": 715,
+    "similarity": 0.8311591371315972
+  },
+  {
+    "fact_id_a": 1049,
+    "fact_id_b": 716,
+    "similarity": 0.9048134734965512
+  },
+  {
+    "fact_id_a": 1049,
+    "fact_id_b": 758,
+    "similarity": 0.8538917492606793
+  },
+  {
+    "fact_id_a": 1050,
+    "fact_id_b": 715,
+    "similarity": 0.9265342485563218
+  },
+  {
+    "fact_id_a": 1050,
+    "fact_id_b": 716,
+    "similarity": 0.8778631876227179
+  },
+  {
+    "fact_id_a": 1050,
+    "fact_id_b": 758,
+    "similarity": 0.8297082421013126
+  },
+  {
+    "fact_id_a": 1051,
+    "fact_id_b": 715,
+    "similarity": 0.9206648297978027
+  },
+  {
+    "fact_id_a": 1051,
+    "fact_id_b": 716,
+    "similarity": 0.8703084531482405
+  },
+  {
+    "fact_id_a": 1051,
+    "fact_id_b": 758,
+    "similarity": 0.84507549334965
+  },
+  {
+    "fact_id_a": 1052,
+    "fact_id_b": 715,
+    "similarity": 0.895049957604665
+  },
+  {
+    "fact_id_a": 1052,
+    "fact_id_b": 716,
+    "similarity": 0.848573176126039
+  },
+  {
+    "fact_id_a": 1052,
+    "fact_id_b": 758,
+    "similarity": 0.8206630284631269
+  },
+  {
+    "fact_id_a": 1053,
+    "fact_id_b": 294,
+    "similarity": 0.779475193974165
+  },
+  {
+    "fact_id_a": 1053,
+    "fact_id_b": 290,
+    "similarity": 0.7755121608104393
+  },
+  {
+    "fact_id_a": 1054,
+    "fact_id_b": 295,
+    "similarity": 0.8159078871848081
+  },
+  {
+    "fact_id_a": 1056,
+    "fact_id_b": 785,
+    "similarity": 0.837570019951193
+  },
+  {
+    "fact_id_a": 1056,
+    "fact_id_b": 739,
+    "similarity": 0.8273946477300751
+  },
+  {
+    "fact_id_a": 1056,
+    "fact_id_b": 716,
+    "similarity": 0.8248532857869139
+  },
+  {
+    "fact_id_a": 1057,
+    "fact_id_b": 716,
+    "similarity": 0.9578259460010135
+  },
+  {
+    "fact_id_a": 1057,
+    "fact_id_b": 715,
+    "similarity": 0.8837290204634773
+  },
+  {
+    "fact_id_a": 1057,
+    "fact_id_b": 739,
+    "similarity": 0.8499015426841715
+  },
+  {
+    "fact_id_a": 1058,
+    "fact_id_b": 716,
+    "similarity": 0.9431299708037586
+  },
+  {
+    "fact_id_a": 1058,
+    "fact_id_b": 715,
+    "similarity": 0.8538666852986051
+  },
+  {
+    "fact_id_a": 1058,
+    "fact_id_b": 739,
+    "similarity": 0.8345117336105675
+  },
+  {
+    "fact_id_a": 1059,
+    "fact_id_b": 716,
+    "similarity": 0.9334741432935849
+  },
+  {
+    "fact_id_a": 1059,
+    "fact_id_b": 715,
+    "similarity": 0.8543940556194276
+  },
+  {
+    "fact_id_a": 1059,
+    "fact_id_b": 739,
+    "similarity": 0.8493191085755474
+  },
+  {
+    "fact_id_a": 1060,
+    "fact_id_b": 716,
+    "similarity": 0.9200335120541007
+  },
+  {
+    "fact_id_a": 1060,
+    "fact_id_b": 739,
+    "similarity": 0.8353973117844519
+  },
+  {
+    "fact_id_a": 1060,
+    "fact_id_b": 715,
+    "similarity": 0.8285566246178936
+  },
+  {
+    "fact_id_a": 1061,
+    "fact_id_b": 785,
+    "similarity": 0.8240342601298041
+  },
+  {
+    "fact_id_a": 1061,
+    "fact_id_b": 716,
+    "similarity": 0.8208594410695607
+  },
+  {
+    "fact_id_a": 1061,
+    "fact_id_b": 739,
+    "similarity": 0.8085511836826808
+  },
+  {
+    "fact_id_a": 1062,
+    "fact_id_b": 785,
+    "similarity": 0.8102596445988219
+  },
+  {
+    "fact_id_a": 1062,
+    "fact_id_b": 716,
+    "similarity": 0.8102373431437824
+  },
+  {
+    "fact_id_a": 1062,
+    "fact_id_b": 787,
+    "similarity": 0.7902022150327415
+  },
+  {
+    "fact_id_a": 1063,
+    "fact_id_b": 715,
+    "similarity": 0.9300736309956261
+  },
+  {
+    "fact_id_a": 1063,
+    "fact_id_b": 716,
+    "similarity": 0.894150022327141
+  },
+  {
+    "fact_id_a": 1063,
+    "fact_id_b": 758,
+    "similarity": 0.837479555251646
+  },
+  {
+    "fact_id_a": 1064,
+    "fact_id_b": 715,
+    "similarity": 0.9078588461037378
+  },
+  {
+    "fact_id_a": 1064,
+    "fact_id_b": 716,
+    "similarity": 0.8825186708940448
+  },
+  {
+    "fact_id_a": 1064,
+    "fact_id_b": 758,
+    "similarity": 0.8168949403649594
+  },
+  {
+    "fact_id_a": 1065,
+    "fact_id_b": 715,
+    "similarity": 0.8977219785411434
+  },
+  {
+    "fact_id_a": 1065,
+    "fact_id_b": 716,
+    "similarity": 0.8655357243664449
+  },
+  {
+    "fact_id_a": 1065,
+    "fact_id_b": 758,
+    "similarity": 0.8282487341294819
+  },
+  {
+    "fact_id_a": 1066,
+    "fact_id_b": 715,
+    "similarity": 0.880575390966255
+  },
+  {
+    "fact_id_a": 1066,
+    "fact_id_b": 716,
+    "similarity": 0.8534706746621322
+  },
+  {
+    "fact_id_a": 1066,
+    "fact_id_b": 758,
+    "similarity": 0.8131654439315216
+  },
+  {
+    "fact_id_a": 1067,
+    "fact_id_b": 716,
+    "similarity": 0.9290396648593401
+  },
+  {
+    "fact_id_a": 1067,
+    "fact_id_b": 715,
+    "similarity": 0.89047734239464
+  },
+  {
+    "fact_id_a": 1067,
+    "fact_id_b": 717,
+    "similarity": 0.8622013577954292
+  },
+  {
+    "fact_id_a": 1068,
+    "fact_id_b": 716,
+    "similarity": 0.9124875547115134
+  },
+  {
+    "fact_id_a": 1068,
+    "fact_id_b": 715,
+    "similarity": 0.8615274974466962
+  },
+  {
+    "fact_id_a": 1068,
+    "fact_id_b": 717,
+    "similarity": 0.8490911745476976
+  },
+  {
+    "fact_id_a": 1069,
+    "fact_id_b": 716,
+    "similarity": 0.9061799073653439
+  },
+  {
+    "fact_id_a": 1069,
+    "fact_id_b": 715,
+    "similarity": 0.8574268811900269
+  },
+  {
+    "fact_id_a": 1069,
+    "fact_id_b": 717,
+    "similarity": 0.8460665533401935
+  },
+  {
+    "fact_id_a": 1070,
+    "fact_id_b": 716,
+    "similarity": 0.897487804051867
+  },
+  {
+    "fact_id_a": 1070,
+    "fact_id_b": 715,
+    "similarity": 0.8352550946959397
+  },
+  {
+    "fact_id_a": 1070,
+    "fact_id_b": 717,
+    "similarity": 0.831252652728048
+  },
+  {
+    "fact_id_a": 1071,
+    "fact_id_b": 787,
+    "similarity": 0.8294650901806904
+  },
+  {
+    "fact_id_a": 1071,
+    "fact_id_b": 785,
+    "similarity": 0.8291569707283765
+  },
+  {
+    "fact_id_a": 1071,
+    "fact_id_b": 776,
+    "similarity": 0.8124579065942505
+  },
+  {
+    "fact_id_a": 1072,
+    "fact_id_b": 716,
+    "similarity": 0.8081493446324777
+  },
+  {
+    "fact_id_a": 1072,
+    "fact_id_b": 785,
+    "similarity": 0.8055785399004334
+  },
+  {
+    "fact_id_a": 1072,
+    "fact_id_b": 295,
+    "similarity": 0.8055777128557761
+  },
+  {
+    "fact_id_a": 1073,
+    "fact_id_b": 295,
+    "similarity": 0.8136430637720804
+  },
+  {
+    "fact_id_a": 1073,
+    "fact_id_b": 260,
+    "similarity": 0.8062135928718936
+  },
+  {
+    "fact_id_a": 1073,
+    "fact_id_b": 785,
+    "similarity": 0.8026349263121267
+  },
+  {
+    "fact_id_a": 1074,
+    "fact_id_b": 296,
+    "similarity": 0.8774081845717977
+  },
+  {
+    "fact_id_a": 1074,
+    "fact_id_b": 298,
+    "similarity": 0.8598160133001634
+  },
+  {
+    "fact_id_a": 1074,
+    "fact_id_b": 268,
+    "similarity": 0.8256009518880564
+  },
+  {
+    "fact_id_a": 1075,
+    "fact_id_b": 296,
+    "similarity": 0.8581328699430547
+  },
+  {
+    "fact_id_a": 1075,
+    "fact_id_b": 298,
+    "similarity": 0.8458079696586864
+  },
+  {
+    "fact_id_a": 1075,
+    "fact_id_b": 268,
+    "similarity": 0.8175166633088575
+  },
+  {
+    "fact_id_a": 1076,
+    "fact_id_b": 296,
+    "similarity": 0.8594078201493816
+  },
+  {
+    "fact_id_a": 1076,
+    "fact_id_b": 298,
+    "similarity": 0.8495744221499865
+  },
+  {
+    "fact_id_a": 1076,
+    "fact_id_b": 268,
+    "similarity": 0.8152080160773638
+  },
+  {
+    "fact_id_a": 1093,
+    "fact_id_b": 703,
+    "similarity": 0.7612235717067993
+  },
+  {
+    "fact_id_a": 1093,
+    "fact_id_b": 282,
+    "similarity": 0.7569295158942505
+  },
+  {
+    "fact_id_a": 1094,
+    "fact_id_b": 703,
+    "similarity": 0.7612235717067993
+  },
+  {
+    "fact_id_a": 1094,
+    "fact_id_b": 282,
+    "similarity": 0.7569295158942505
+  },
+  {
+    "fact_id_a": 1095,
+    "fact_id_b": 703,
+    "similarity": 0.7612235717067993
+  },
+  {
+    "fact_id_a": 1095,
+    "fact_id_b": 282,
+    "similarity": 0.7569295158942505
+  },
+  {
+    "fact_id_a": 1096,
+    "fact_id_b": 703,
+    "similarity": 0.7612235717067993
+  },
+  {
+    "fact_id_a": 1096,
+    "fact_id_b": 282,
+    "similarity": 0.7569295158942505
+  },
+  {
+    "fact_id_a": 1097,
+    "fact_id_b": 703,
+    "similarity": 0.8014703943017486
+  },
+  {
+    "fact_id_a": 1098,
+    "fact_id_b": 703,
+    "similarity": 0.8014703943017486
+  },
+  {
+    "fact_id_a": 1099,
+    "fact_id_b": 286,
+    "similarity": 0.8322943465488226
+  },
+  {
+    "fact_id_a": 1099,
+    "fact_id_b": 281,
+    "similarity": 0.8032536530188712
+  },
+  {
+    "fact_id_a": 1099,
+    "fact_id_b": 703,
+    "similarity": 0.8014703943017486
+  },
+  {
+    "fact_id_a": 1100,
+    "fact_id_b": 286,
+    "similarity": 0.8322943465488226
+  },
+  {
+    "fact_id_a": 1100,
+    "fact_id_b": 281,
+    "similarity": 0.8032536530188712
+  },
+  {
+    "fact_id_a": 1100,
+    "fact_id_b": 703,
+    "similarity": 0.8014703943017486
+  },
+  {
+    "fact_id_a": 1117,
+    "fact_id_b": 296,
+    "similarity": 0.7795198257583686
+  },
+  {
+    "fact_id_a": 1118,
+    "fact_id_b": 296,
+    "similarity": 0.7753204849846264
+  },
+  {
+    "fact_id_a": 1119,
+    "fact_id_b": 296,
+    "similarity": 0.7645438817502227
+  },
+  {
+    "fact_id_a": 1120,
+    "fact_id_b": 296,
+    "similarity": 0.7622056557660061
+  },
+  {
+    "fact_id_a": 1136,
+    "fact_id_b": 721,
+    "similarity": 0.850174884751242
+  },
+  {
+    "fact_id_a": 1137,
+    "fact_id_b": 726,
+    "similarity": 0.7948091724956643
+  },
+  {
+    "fact_id_a": 1137,
+    "fact_id_b": 771,
+    "similarity": 0.7936040103874828
+  },
+  {
+    "fact_id_a": 1137,
+    "fact_id_b": 772,
+    "similarity": 0.7898657593256238
+  },
+  {
+    "fact_id_a": 1138,
+    "fact_id_b": 750,
+    "similarity": 0.8216117901155421
+  },
+  {
+    "fact_id_a": 1138,
+    "fact_id_b": 732,
+    "similarity": 0.8161541916948188
+  },
+  {
+    "fact_id_a": 1138,
+    "fact_id_b": 749,
+    "similarity": 0.8056152541545899
+  },
+  {
+    "fact_id_a": 1139,
+    "fact_id_b": 772,
+    "similarity": 0.7941154174796401
+  },
+  {
+    "fact_id_a": 1139,
+    "fact_id_b": 773,
+    "similarity": 0.7927236508152798
+  },
+  {
+    "fact_id_a": 1140,
+    "fact_id_b": 749,
+    "similarity": 0.8216868334315167
+  },
+  {
+    "fact_id_a": 1140,
+    "fact_id_b": 732,
+    "similarity": 0.8174302479245408
+  },
+  {
+    "fact_id_a": 1140,
+    "fact_id_b": 748,
+    "similarity": 0.8143547339864704
+  },
+  {
+    "fact_id_a": 1141,
+    "fact_id_b": 759,
+    "similarity": 0.8044138297611625
+  },
+  {
+    "fact_id_a": 1141,
+    "fact_id_b": 747,
+    "similarity": 0.796992730536088
+  },
+  {
+    "fact_id_a": 1141,
+    "fact_id_b": 751,
+    "similarity": 0.796878952682773
+  },
+  {
+    "fact_id_a": 1142,
+    "fact_id_b": 747,
+    "similarity": 0.8407441096028964
+  },
+  {
+    "fact_id_a": 1142,
+    "fact_id_b": 751,
+    "similarity": 0.8368706597672869
+  },
+  {
+    "fact_id_a": 1145,
+    "fact_id_b": 726,
+    "similarity": 0.8162256185194599
+  },
+  {
+    "fact_id_a": 1145,
+    "fact_id_b": 771,
+    "similarity": 0.806348839674577
+  },
+  {
+    "fact_id_a": 1145,
+    "fact_id_b": 772,
+    "similarity": 0.8019366371228988
+  },
+  {
+    "fact_id_a": 1146,
+    "fact_id_b": 750,
+    "similarity": 0.8247017249801812
+  },
+  {
+    "fact_id_a": 1146,
+    "fact_id_b": 732,
+    "similarity": 0.8236118850858538
+  },
+  {
+    "fact_id_a": 1146,
+    "fact_id_b": 731,
+    "similarity": 0.81201525083491
+  },
+  {
+    "fact_id_a": 1147,
+    "fact_id_b": 770,
+    "similarity": 0.7980802347773287
+  },
+  {
+    "fact_id_a": 1147,
+    "fact_id_b": 726,
+    "similarity": 0.7893608848806621
+  },
+  {
+    "fact_id_a": 1148,
+    "fact_id_b": 749,
+    "similarity": 0.8133946957402969
+  },
+  {
+    "fact_id_a": 1148,
+    "fact_id_b": 732,
+    "similarity": 0.8098487847914543
+  },
+  {
+    "fact_id_a": 1148,
+    "fact_id_b": 748,
+    "similarity": 0.805272492939258
+  },
+  {
+    "fact_id_a": 1149,
+    "fact_id_b": 33,
+    "similarity": 0.7775884664631469
+  },
+  {
+    "fact_id_a": 1149,
+    "fact_id_b": 725,
+    "similarity": 0.7728529647293765
+  },
+  {
+    "fact_id_a": 1149,
+    "fact_id_b": 758,
+    "similarity": 0.7693076096305933
+  },
+  {
+    "fact_id_a": 1150,
+    "fact_id_b": 787,
+    "similarity": 0.7990756510594225
+  },
+  {
+    "fact_id_a": 1150,
+    "fact_id_b": 785,
+    "similarity": 0.7888344255956752
+  },
+  {
+    "fact_id_a": 1150,
+    "fact_id_b": 732,
+    "similarity": 0.788044064579234
+  },
+  {
+    "fact_id_a": 1151,
+    "fact_id_b": 770,
+    "similarity": 0.7749001543353333
+  },
+  {
+    "fact_id_a": 1151,
+    "fact_id_b": 772,
+    "similarity": 0.7736332753684841
+  },
+  {
+    "fact_id_a": 1151,
+    "fact_id_b": 771,
+    "similarity": 0.7727742030775757
+  },
+  {
+    "fact_id_a": 1152,
+    "fact_id_b": 750,
+    "similarity": 0.8044887160671117
+  },
+  {
+    "fact_id_a": 1152,
+    "fact_id_b": 732,
+    "similarity": 0.8010912438705843
+  },
+  {
+    "fact_id_a": 1152,
+    "fact_id_b": 749,
+    "similarity": 0.7983176954730294
+  },
+  {
+    "fact_id_a": 1153,
+    "fact_id_b": 765,
+    "similarity": 0.7974918341630896
+  },
+  {
+    "fact_id_a": 1153,
+    "fact_id_b": 771,
+    "similarity": 0.7965414240429569
+  },
+  {
+    "fact_id_a": 1153,
+    "fact_id_b": 760,
+    "similarity": 0.7943976559984155
+  },
+  {
+    "fact_id_a": 1154,
+    "fact_id_b": 750,
+    "similarity": 0.8265181270126424
+  },
+  {
+    "fact_id_a": 1154,
+    "fact_id_b": 732,
+    "similarity": 0.8162392384259932
+  },
+  {
+    "fact_id_a": 1154,
+    "fact_id_b": 748,
+    "similarity": 0.8155657100318627
+  },
+  {
+    "fact_id_a": 1155,
+    "fact_id_b": 726,
+    "similarity": 0.8230193258104045
+  },
+  {
+    "fact_id_a": 1155,
+    "fact_id_b": 758,
+    "similarity": 0.8208390378785241
+  },
+  {
+    "fact_id_a": 1155,
+    "fact_id_b": 771,
+    "similarity": 0.8108975845684735
+  },
+  {
+    "fact_id_a": 1156,
+    "fact_id_b": 750,
+    "similarity": 0.842357697501297
+  },
+  {
+    "fact_id_a": 1156,
+    "fact_id_b": 732,
+    "similarity": 0.8385187181457683
+  },
+  {
+    "fact_id_a": 1156,
+    "fact_id_b": 747,
+    "similarity": 0.8309028687801805
+  },
+  {
+    "fact_id_a": 1185,
+    "fact_id_b": 758,
+    "similarity": 0.8454866668346114
+  },
+  {
+    "fact_id_a": 1185,
+    "fact_id_b": 715,
+    "similarity": 0.8321680557192622
+  },
+  {
+    "fact_id_a": 1185,
+    "fact_id_b": 763,
+    "similarity": 0.8223420142518227
+  },
+  {
+    "fact_id_a": 1186,
+    "fact_id_b": 739,
+    "similarity": 0.8507764527019783
+  },
+  {
+    "fact_id_a": 1186,
+    "fact_id_b": 716,
+    "similarity": 0.849182933748348
+  },
+  {
+    "fact_id_a": 1186,
+    "fact_id_b": 751,
+    "similarity": 0.8371734848488983
+  },
+  {
+    "fact_id_a": 1187,
+    "fact_id_b": 758,
+    "similarity": 0.8353132084933457
+  },
+  {
+    "fact_id_a": 1187,
+    "fact_id_b": 715,
+    "similarity": 0.8250152024035508
+  },
+  {
+    "fact_id_a": 1187,
+    "fact_id_b": 763,
+    "similarity": 0.8043370364761553
+  },
+  {
+    "fact_id_a": 1188,
+    "fact_id_b": 716,
+    "similarity": 0.8456965058393923
+  },
+  {
+    "fact_id_a": 1188,
+    "fact_id_b": 739,
+    "similarity": 0.8453749690904184
+  },
+  {
+    "fact_id_a": 1188,
+    "fact_id_b": 751,
+    "similarity": 0.828719985903377
+  },
+  {
+    "fact_id_a": 1189,
+    "fact_id_b": 715,
+    "similarity": 0.8393375776907811
+  },
+  {
+    "fact_id_a": 1189,
+    "fact_id_b": 758,
+    "similarity": 0.8304790450369133
+  },
+  {
+    "fact_id_a": 1189,
+    "fact_id_b": 763,
+    "similarity": 0.8022658798826094
+  },
+  {
+    "fact_id_a": 1190,
+    "fact_id_b": 716,
+    "similarity": 0.8741884138977953
+  },
+  {
+    "fact_id_a": 1190,
+    "fact_id_b": 739,
+    "similarity": 0.844401051401264
+  },
+  {
+    "fact_id_a": 1190,
+    "fact_id_b": 743,
+    "similarity": 0.8206452254425051
+  },
+  {
+    "fact_id_a": 1191,
+    "fact_id_b": 758,
+    "similarity": 0.8392036773924498
+  },
+  {
+    "fact_id_a": 1192,
+    "fact_id_b": 747,
+    "similarity": 0.8532484861445745
+  },
+  {
+    "fact_id_a": 1193,
+    "fact_id_b": 149,
+    "similarity": 0.8040662361395102
+  },
+  {
+    "fact_id_a": 1193,
+    "fact_id_b": 765,
+    "similarity": 0.8016742151456855
+  },
+  {
+    "fact_id_a": 1193,
+    "fact_id_b": 145,
+    "similarity": 0.8012666302626937
+  },
+  {
+    "fact_id_a": 1194,
+    "fact_id_b": 739,
+    "similarity": 0.8183571697719494
+  },
+  {
+    "fact_id_a": 1194,
+    "fact_id_b": 744,
+    "similarity": 0.8169893446528365
+  },
+  {
+    "fact_id_a": 1194,
+    "fact_id_b": 746,
+    "similarity": 0.8058206070261419
+  },
+  {
+    "fact_id_a": 1195,
+    "fact_id_b": 758,
+    "similarity": 0.8267878859158024
+  },
+  {
+    "fact_id_a": 1195,
+    "fact_id_b": 764,
+    "similarity": 0.8131346418766444
+  },
+  {
+    "fact_id_a": 1195,
+    "fact_id_b": 766,
+    "similarity": 0.8116362796545472
+  },
+  {
+    "fact_id_a": 1196,
+    "fact_id_b": 739,
+    "similarity": 0.8360208355505593
+  },
+  {
+    "fact_id_a": 1196,
+    "fact_id_b": 721,
+    "similarity": 0.8263390822839308
+  },
+  {
+    "fact_id_a": 1196,
+    "fact_id_b": 746,
+    "similarity": 0.8253604076152028
+  },
+  {
+    "fact_id_a": 1197,
+    "fact_id_b": 764,
+    "similarity": 0.8014225401966711
+  },
+  {
+    "fact_id_a": 1197,
+    "fact_id_b": 763,
+    "similarity": 0.7975360475445809
+  },
+  {
+    "fact_id_a": 1197,
+    "fact_id_b": 758,
+    "similarity": 0.7835255850572116
+  },
+  {
+    "fact_id_a": 1198,
+    "fact_id_b": 743,
+    "similarity": 0.8133648431001036
+  },
+  {
+    "fact_id_a": 1198,
+    "fact_id_b": 721,
+    "similarity": 0.8120004985705523
+  },
+  {
+    "fact_id_a": 1198,
+    "fact_id_b": 751,
+    "similarity": 0.8097373785689727
+  },
+  {
+    "fact_id_a": 1199,
+    "fact_id_b": 758,
+    "similarity": 0.8251763165277887
+  },
+  {
+    "fact_id_a": 1199,
+    "fact_id_b": 715,
+    "similarity": 0.8082814591168694
+  },
+  {
+    "fact_id_a": 1199,
+    "fact_id_b": 766,
+    "similarity": 0.7965513360846623
+  },
+  {
+    "fact_id_a": 1200,
+    "fact_id_b": 739,
+    "similarity": 0.8293753007365636
+  },
+  {
+    "fact_id_a": 1200,
+    "fact_id_b": 716,
+    "similarity": 0.8271953975153102
+  },
+  {
+    "fact_id_a": 1200,
+    "fact_id_b": 721,
+    "similarity": 0.8246880605204364
+  },
+  {
+    "fact_id_a": 1201,
+    "fact_id_b": 766,
+    "similarity": 0.8271039580483361
+  },
+  {
+    "fact_id_a": 1201,
+    "fact_id_b": 762,
+    "similarity": 0.8259081540996319
+  },
+  {
+    "fact_id_a": 1202,
+    "fact_id_b": 744,
+    "similarity": 0.8341675062456648
+  },
+  {
+    "fact_id_a": 1203,
+    "fact_id_b": 763,
+    "similarity": 0.8013128418485341
+  },
+  {
+    "fact_id_a": 1203,
+    "fact_id_b": 764,
+    "similarity": 0.792732355109106
+  },
+  {
+    "fact_id_a": 1203,
+    "fact_id_b": 766,
+    "similarity": 0.7925043849727628
+  },
+  {
+    "fact_id_a": 1204,
+    "fact_id_b": 743,
+    "similarity": 0.811789358597815
+  },
+  {
+    "fact_id_a": 1204,
+    "fact_id_b": 739,
+    "similarity": 0.8061610349361548
+  },
+  {
+    "fact_id_a": 1204,
+    "fact_id_b": 746,
+    "similarity": 0.8057609254078784
+  },
+  {
+    "fact_id_a": 1205,
+    "fact_id_b": 764,
+    "similarity": 0.8429821676459236
+  },
+  {
+    "fact_id_a": 1206,
+    "fact_id_b": 721,
+    "similarity": 0.8509179808888361
+  },
+  {
+    "fact_id_a": 1207,
+    "fact_id_b": 758,
+    "similarity": 0.8155594868161381
+  },
+  {
+    "fact_id_a": 1207,
+    "fact_id_b": 772,
+    "similarity": 0.8115763195423837
+  },
+  {
+    "fact_id_a": 1207,
+    "fact_id_b": 768,
+    "similarity": 0.8068265550044555
+  },
+  {
+    "fact_id_a": 1208,
+    "fact_id_b": 751,
+    "similarity": 0.831650444761308
+  },
+  {
+    "fact_id_a": 1208,
+    "fact_id_b": 747,
+    "similarity": 0.8309657006166008
+  },
+  {
+    "fact_id_a": 1208,
+    "fact_id_b": 716,
+    "similarity": 0.8280869221256778
+  },
+  {
+    "fact_id_a": 1209,
+    "fact_id_b": 163,
+    "similarity": 0.8694216370799375
+  },
+  {
+    "fact_id_a": 1210,
+    "fact_id_b": 773,
+    "similarity": 0.8605500332280747
+  },
+  {
+    "fact_id_a": 1210,
+    "fact_id_b": 738,
+    "similarity": 0.854230381114029
+  },
+  {
+    "fact_id_a": 1211,
+    "fact_id_b": 768,
+    "similarity": 0.8303487047469825
+  },
+  {
+    "fact_id_a": 1212,
+    "fact_id_b": 747,
+    "similarity": 0.8525481484709767
+  },
+  {
+    "fact_id_a": 1212,
+    "fact_id_b": 751,
+    "similarity": 0.8494567355517167
+  },
+  {
+    "fact_id_a": 1212,
+    "fact_id_b": 748,
+    "similarity": 0.8337030682406417
+  },
+  {
+    "fact_id_a": 1213,
+    "fact_id_b": 733,
+    "similarity": 0.8331001949751751
+  },
+  {
+    "fact_id_a": 1215,
+    "fact_id_b": 768,
+    "similarity": 0.8282451580809043
+  },
+  {
+    "fact_id_a": 1215,
+    "fact_id_b": 733,
+    "similarity": 0.8204128461511329
+  },
+  {
+    "fact_id_a": 1215,
+    "fact_id_b": 772,
+    "similarity": 0.8098394293995653
+  },
+  {
+    "fact_id_a": 1216,
+    "fact_id_b": 747,
+    "similarity": 0.8459431259681733
+  },
+  {
+    "fact_id_a": 1216,
+    "fact_id_b": 751,
+    "similarity": 0.8337676312126622
+  },
+  {
+    "fact_id_a": 1216,
+    "fact_id_b": 748,
+    "similarity": 0.8213031898152694
+  },
+  {
+    "fact_id_a": 1217,
+    "fact_id_b": 768,
+    "similarity": 0.8315898439775207
+  },
+  {
+    "fact_id_a": 1217,
+    "fact_id_b": 733,
+    "similarity": 0.8231843654003981
+  },
+  {
+    "fact_id_a": 1217,
+    "fact_id_b": 772,
+    "similarity": 0.8153936613814333
+  },
+  {
+    "fact_id_a": 1218,
+    "fact_id_b": 747,
+    "similarity": 0.8483389429020991
+  },
+  {
+    "fact_id_a": 1218,
+    "fact_id_b": 751,
+    "similarity": 0.8381342321532198
+  },
+  {
+    "fact_id_a": 1218,
+    "fact_id_b": 748,
+    "similarity": 0.8220310085179693
+  },
+  {
+    "fact_id_a": 1223,
+    "fact_id_b": 716,
+    "similarity": 0.7570614021674497
+  },
+  {
+    "fact_id_a": 1228,
+    "fact_id_b": 716,
+    "similarity": 0.7518400395855358
+  }
+]

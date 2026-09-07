@@ -1,0 +1,8 @@
+.venv/
+factlayer/.env
+factlayer/data/*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+factlayer/data/facts.db
+factlayer/data/*_blocks.json
