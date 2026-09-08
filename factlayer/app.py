@@ -109,8 +109,10 @@ with tab3:
     st.write("Same figure (₹8,142 Cr ≈ ₹81,415 Mn), stated in two documents, different units.")
     rows = conn.execute("""
         SELECT doc_id, page, attribute, value, unit, evidence_text FROM facts
-        WHERE attribute LIKE '%revenue%' AND period LIKE '%FY24%' AND value LIKE '%8,142%' OR value LIKE '%81,415%'
-        LIMIT 5
+        WHERE (attribute LIKE '%revenue%' AND period LIKE '%FY24%')
+          AND (value LIKE '%8,142%' OR value LIKE '%81,415%')
+        ORDER BY doc_id
+        LIMIT 8
     """).fetchall()
     st.dataframe([dict(r) for r in rows], use_container_width=True)
 
