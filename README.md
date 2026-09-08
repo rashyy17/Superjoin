@@ -35,11 +35,13 @@ streamlit run factlayer/app.py
 Upload a new PDF directly from the sidebar to run ingest + extract on it live;
 then run `link.py` / `adjudicate.py` from the terminal to find its
 relationships to existing facts.
-
-Note: the repo already includes committed `*_facts.json` outputs and a
-populated `factlayer/data/facts.db` from a full run on the starter dataset,
-plus a findings summary (`factlayer/data/findings.md`), so results can be
-inspected without needing your own API key or billing set up.
+Note: the repo already includes committed `*_facts.json` outputs from a full
+run on the starter dataset, plus a findings summary
+(`factlayer/data/findings.md`), so results can be inspected without needing
+your own API key or billing set up. Run `python factlayer/store.py` once
+after cloning to build the local `facts.db` from these committed outputs
+before launching the UI — this needs no API key, since it only reads the
+already-extracted JSON.
 
 ## Video Demo
 [link to be added]
