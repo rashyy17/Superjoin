@@ -83,6 +83,13 @@ generation throughout; Gemini 2.5 Flash for extraction and adjudication
 (switched from Anthropic and briefly Groq mid-project due to rate limits,
 see Limitations).
 
+**Results at a glance:** 4,625 facts extracted across 4 documents (88–100%
+high-confidence per document, reflecting the verbatim-evidence filter
+described above), with 3 cross-document relations classified (1
+CORROBORATES, 2 RECONCILABLE) via automated adjudication, plus one additional
+RECONCILABLE relation (the director-status case) found via a targeted query
+rather than embedding similarity — see Limitations.
+
 **The four required cases** (full detail in factlayer/data/findings.md):
 
 1. **Corroborated:** FY24 revenue, INR 8,142 Cr (earnings deck) = INR 81,415
