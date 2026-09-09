@@ -44,7 +44,7 @@ before launching the UI — this needs no API key, since it only reads the
 already-extracted JSON.
 
 ## Video Demo
-[link to be added]
+https://drive.google.com/file/d/13UKR2cCC-_GrlqG5cGB-9aAmlsxuslSg/view?usp=sharing
 
 ## Approach
 
